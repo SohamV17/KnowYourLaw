@@ -1,0 +1,1259 @@
+Q:What is Section 302
+A:Section 302 of the Indian Penal Code (IPC) prescribes the punishment for murder. It states that whoever commits murder shall be punished with either the death penalty or imprisonment for life. In addition to these punishments, the convicted person shall also be liable to a fine. This section does not define murder but provides the stringent penalties for this grave offense.
+
+Q:What is Section 304
+A:Section 304 of the Indian Penal Code deals with punishment for culpable homicide not amounting to murder. It is divided into two parts: if the act was done with the intention of causing death, the punishment is imprisonment for life or up to ten years, along with a fine. If the act was done without such intention but with knowledge that it was likely to cause death, the punishment is imprisonment for up to ten years or fine, or both.
+
+Q:What is Section 375
+A:Section 375 of the Indian Penal Code defines the offense of rape. It specifies the circumstances under which sexual intercourse with a woman amounts to rape, such as without her consent, against her will, or when she is under a certain age. The law has been amended several times to broaden the scope of consent and to ensure stricter punishment for offenders.
+
+Q:What is Section 376
+A:Section 376 of the Indian Penal Code prescribes punishment for the offense of rape. The punishment is rigorous imprisonment for not less than 10 years, which may extend to life imprisonment, along with a fine. In certain aggravated cases, such as custodial rape, gang rape, or rape of a minor, the punishment is even more severe, reflecting the seriousness of the offense.
+
+Q:What is Section 377
+A:Section 377 of the Indian Penal Code historically criminalized sexual activities considered "against the order of nature." However, in 2018, the Supreme Court of India struck down the application of this section to consensual sexual acts between adults, thereby decriminalizing homosexuality. The section still applies to non-consensual acts and offenses involving minors or animals.
+
+Q:What is Section 498A
+A:Section 498A of the Indian Penal Code deals with cruelty by husband or his relatives against a married woman. Cruelty includes any conduct that is likely to drive the woman to suicide, cause grave injury, or harassment for dowry demands. It is a cognizable and non-bailable offense intended to protect women from domestic violence and dowry-related harassment.
+
+Q:What is Section 420
+A:Section 420 of the Indian Penal Code deals with the offense of cheating and dishonestly inducing delivery of property. The punishment for this offense is imprisonment for up to seven years along with a fine. It is often invoked in cases of fraud, scams, and dishonest business dealings.
+
+Q:What is Section 375B
+A:Section 375B of the IPC deals with sexual assault by a husband upon his wife during separation. This provision recognizes that even within marriage, non-consensual sexual intercourse can amount to an offense. It reflects the growing emphasis on bodily autonomy and the right of women to refuse consent even in marital relationships.
+
+Q:What is Article 14
+A:Article 14 of the Indian Constitution guarantees the right to equality before the law and equal protection of the laws. This means that the state cannot deny any person equality before the law or discriminate against them. The principle forms the foundation of India's democracy and ensures fairness in governance and justice.
+
+Q:What is Article 19
+A:Article 19 of the Indian Constitution provides six fundamental freedoms to citizens: freedom of speech and expression, freedom to assemble peacefully, freedom to form associations, freedom of movement, freedom to reside anywhere in India, and freedom to practice any profession or trade. These rights are not absolute and can be reasonably restricted by the state for public order, security, and morality.
+
+Q:What is Article 21
+A:Article 21 of the Indian Constitution guarantees the Right to Life and Personal Liberty. It states that no person shall be deprived of their life or personal liberty except according to the procedure established by law. Over time, the Supreme Court has expanded the scope of Article 21 to include rights such as the right to a clean environment, right to livelihood, right to privacy, and right to health.
+
+Q:What is Article 32
+A:Article 32 of the Indian Constitution provides the right to constitutional remedies. It empowers citizens to approach the Supreme Court directly in case of violation of their fundamental rights. Dr. B.R. Ambedkar described Article 32 as the "heart and soul" of the Constitution because it guarantees the protection of fundamental rights.
+
+Q:What is Article 370
+A:Article 370 of the Indian Constitution granted special status to the state of Jammu and Kashmir. It allowed the state to have its own constitution and autonomy in many matters except defense, foreign affairs, and communications. However, in August 2019, the Government of India abrogated Article 370, thereby revoking Jammu and Kashmir’s special status and reorganizing it into union territories.
+
+Q:What is FIR
+A:FIR stands for First Information Report. It is a written document prepared by the police when they receive information about the commission of a cognizable offense. The FIR sets the criminal law in motion and is registered under Section 154 of the Code of Criminal Procedure (CrPC). It must contain essential details like the nature of the offense, time, place, and identity of the accused, if known.
+
+Q:What is Bailable Offense
+A:A bailable offense is one where bail is a matter of right under the law. This means that if a person is accused of such an offense, the police or court is bound to release them on bail once proper sureties are furnished. Bailable offenses are generally less serious in nature, such as causing simple hurt, public nuisance, or wrongful restraint.
+
+Q:What is Non-bailable Offense
+A:A non-bailable offense is one where granting bail is not a matter of right but lies at the discretion of the court. These offenses are considered more serious, such as murder, rape, dowry death, or kidnapping. The court examines the facts of the case, seriousness of the offense, and possibility of the accused misusing bail before making a decision.
+
+Q:What is Cognizable Offense
+A:A cognizable offense is one in which the police have the authority to register an FIR, investigate the case, and arrest the accused without prior approval of a magistrate. These are generally serious offenses like murder, rape, or theft. Cognizable offenses are listed under the Code of Criminal Procedure (CrPC).
+
+Q:What is Non-cognizable Offense
+A:A non-cognizable offense is one where the police cannot register an FIR or investigate without the permission of a magistrate. In such cases, the complaint is first filed before a magistrate, who may then direct the police to investigate. Examples include defamation, public nuisance, and minor assaults.
+
+Q:What is Habeas Corpus
+A:Habeas Corpus is a writ issued by the court to protect the fundamental right of personal liberty. The term means "to have the body." It is used when a person is illegally detained by the police or any other authority. The court, through this writ, directs the detaining authority to produce the detained person and justify the detention, ensuring protection against unlawful imprisonment.
+
+Q:What is Mandamus
+A:Mandamus is a writ issued by a higher court directing a lower court, public authority, or government officer to perform a duty that they are legally obligated to perform. It ensures that public officials do not neglect their duties and act within the limits of their authority.
+
+Q:What is Quo Warranto
+A:Quo Warranto is a writ issued to prevent a person from holding a public office to which they are not entitled. It questions the legality of their claim and ensures that no unauthorized person occupies an office of authority. This writ helps maintain transparency and accountability in public administration.
+
+Q:What is Section 144
+A:Section 144 of the Code of Criminal Procedure (CrPC) empowers a magistrate to issue orders in urgent cases of nuisance or apprehended danger. It is commonly used to prohibit unlawful assemblies, impose curfews, and restrict public gatherings. The order remains in force for a limited period and is preventive in nature, aimed at maintaining public peace and safety.
+
+Q:What is Section 375A
+A:Section 375A of the IPC addresses sexual harassment. It covers actions such as unwelcome physical contact, demands for sexual favors, showing pornography against a woman’s will, or making sexually colored remarks. The section seeks to ensure the safety and dignity of women in workplaces and public spaces.
+
+Q:What is Section 124A
+A:Section 124A of the Indian Penal Code deals with the offense of sedition. It punishes acts that bring hatred, contempt, or excite disaffection against the government established by law. The punishment can be imprisonment for life or up to three years with fine. However, courts have clarified that only incitement to violence or public disorder qualifies as sedition.
+
+Q:What is the Motor Vehicle Act
+A:The Motor Vehicle Act, 1988, is an Indian law that regulates all aspects of road transport vehicles in the country. It covers licensing, registration, road safety, and penalties for traffic violations. The Act aims to reduce accidents, ensure road safety, and provide compensation for victims of road accidents. It is regularly updated to include new provisions.
+
+Q:What is a Traffic Signal Violation
+A:A traffic signal violation occurs when a driver disobeys the instructions of a traffic light, such as running a red light. Such violations are punishable under the Motor Vehicle Act, with fines and possible suspension of the driving license. It is considered dangerous as it can lead to accidents, injuries, and property damage.
+
+Q:What is a Drunk Driving Offense
+A:Drunk driving is the act of operating a vehicle under the influence of alcohol or drugs. According to the Motor Vehicle Act, driving with blood alcohol content above the prescribed limit is a punishable offense. Penalties include fines, imprisonment, and suspension or cancellation of the driving license. It is considered a serious threat to road safety.
+
+Q:What is a Speeding Offense
+A:Speeding is the act of driving a vehicle faster than the prescribed speed limit. It is considered a violation of traffic rules under the Motor Vehicle Act. Punishments include fines, points on the driver’s license, and sometimes imprisonment in case of accidents. Speeding increases the risk of accidents and severity of injuries.
+
+Q:What is a Seat Belt Law
+A:Seat belt laws mandate that the driver and passengers in a vehicle must wear seat belts while the vehicle is in motion. This rule is part of the Motor Vehicle Act and aims to reduce fatalities and injuries during accidents. Non-compliance can result in fines and penalties.
+
+Q:What is a Helmet Law
+A:Helmet laws require motorcyclists and their pillion riders to wear helmets while riding. This is enforced under the Motor Vehicle Act to reduce head injuries and fatalities during accidents. Violation of helmet laws leads to fines and sometimes seizure of the vehicle.
+
+Q:What is a No-Entry Violation
+A:Driving into a “No Entry” zone or road is a traffic violation punishable under the Motor Vehicle Act. It is considered dangerous as it may cause accidents and obstruct traffic flow. Penalties include fines, demerit points, and possible license suspension for repeated offenses.
+
+Q:What is the Consumer Protection Act
+A:The Consumer Protection Act, 2019, safeguards the interests of consumers in India. It provides mechanisms to address grievances related to defective goods, deficient services, unfair trade practices, and misleading advertisements. Consumers can approach consumer courts for compensation and redressal.
+
+Q:What is a Consumer Complaint
+A:A consumer complaint is a formal grievance filed by a buyer against a seller, manufacturer, or service provider. The complaint can be lodged in consumer courts or online portals under the Consumer Protection Act. It seeks remedies such as replacement, refund, or compensation for losses or damages.
+
+Q:What is the Right to Information Act
+A:The Right to Information (RTI) Act, 2005, empowers Indian citizens to access information held by public authorities. It promotes transparency, accountability, and good governance. Citizens can file an RTI request to obtain records, documents, and details about government functioning.
+
+Q:What is the Labor Law
+A:Labor laws in India regulate the relationship between employers and employees, ensuring fair wages, working conditions, and social security. Important laws include the Industrial Disputes Act, Minimum Wages Act, and Employees’ Provident Fund Act. They aim to protect workers’ rights and prevent exploitation.
+
+Q:What is the Minimum Wages Act
+A:The Minimum Wages Act, 1948, ensures that workers receive fair and legal wages for their work. It fixes the minimum wage for different types of employment to prevent exploitation. Employers violating this law may face fines, penalties, or imprisonment.
+
+Q:What is the Payment of Gratuity Act
+A:The Payment of Gratuity Act, 1972, provides a monetary benefit to employees who have rendered continuous service for five or more years. Gratuity is payable upon retirement, resignation, or death. It is meant to reward loyalty and long-term contribution to an organization.
+
+Q:What is the Factories Act
+A:The Factories Act, 1948, regulates labor welfare, working hours, health, and safety in factories. It ensures proper working conditions, sanitation, and safety measures. Employers are legally bound to comply with its provisions to protect workers from occupational hazards.
+
+Q:What is Cybercrime
+A:Cybercrime refers to offenses committed using computers, networks, or the internet. Examples include hacking, phishing, online fraud, identity theft, and spreading malware. Indian laws such as the Information Technology Act, 2000, prescribe penalties for these crimes, including fines and imprisonment.
+
+Q:What is the IT Act
+A:The Information Technology Act, 2000, governs digital transactions, cybercrime, and electronic commerce in India. It provides legal recognition to electronic documents, signatures, and contracts. The Act also prescribes punishments for hacking, identity theft, cyber fraud, and other online offenses.
+
+Q:What is Intellectual Property Rights
+A:Intellectual Property Rights (IPR) protect creations of the mind, such as inventions, designs, literary and artistic works, and trademarks. Laws like the Copyright Act, Patent Act, and Trademark Act safeguard creators from unauthorized use, copying, or exploitation of their work.
+
+Q:What is the Environmental Protection Act
+A:The Environmental Protection Act, 1986, provides a framework for the protection and improvement of the environment. It empowers authorities to prevent pollution, regulate industrial emissions, and take action against environmental violations. It aims to ensure sustainable development and public health.
+
+Q:What is the Air (Prevention and Control of Pollution) Act
+A:The Air (Prevention and Control of Pollution) Act, 1981, empowers authorities to prevent and control air pollution. Industries are required to maintain emission standards, and violators may face fines and imprisonment. The Act aims to protect public health and the environment from hazardous air pollutants.
+
+Q:What is the Water (Prevention and Control of Pollution) Act
+A:The Water (Prevention and Control of Pollution) Act, 1974, regulates discharge of pollutants into water bodies. Industries and municipalities must comply with prescribed standards to prevent water pollution. Violation of the Act can result in fines, imprisonment, and closure of non-compliant establishments.
+
+Q:What is the Right to Education Act
+A:The Right to Education (RTE) Act, 2009, mandates free and compulsory education for children aged 6 to 14 years in India. It ensures that every child has access to elementary education, proper infrastructure, and qualified teachers. Schools must comply with admission and curriculum guidelines under this Act.
+
+Q:What is the Domestic Violence Act
+A:The Protection of Women from Domestic Violence Act, 2005, safeguards women against physical, emotional, sexual, and economic abuse by family members. It provides legal remedies, including protection orders, residence rights, and monetary relief. The Act aims to ensure safety and dignity for women in their homes.
+
+Q:What is the Juvenile Justice Act
+A:The Juvenile Justice (Care and Protection of Children) Act, 2015, provides a legal framework for the protection, rehabilitation, and trial of children in conflict with the law. It emphasizes rehabilitation, care, and social reintegration rather than harsh punishment for juvenile offenders.
+
+Q:What is Consumer Rights
+A:Consumer rights in India include the right to safety, the right to be informed, the right to choose, the right to be heard, and the right to seek redressal. These rights are protected under the Consumer Protection Act, and any violation entitles the consumer to file a complaint and claim compensation.
+
+Q:What is E-Challan
+A:An E-Challan is an electronic traffic ticket issued for violations of traffic rules. It is linked to the Motor Vehicle Act and allows fines to be paid online. E-Challans improve transparency, reduce corruption, and ensure efficient enforcement of traffic regulations.
+
+Q:What is the penalty for red light violation
+A:Running a red light is a serious traffic violation under the Motor Vehicle Act. The offender can be fined, and in some cases, points may be added to the driving license. Repeated violations can lead to suspension or cancellation of the license. This rule helps prevent accidents at intersections.
+
+Q:What is the fine for over-speeding
+A:Over-speeding is punishable with a monetary fine under the Motor Vehicle Act. The amount depends on the type of vehicle and the extent of violation. Excessive speed can also attract license points, and in severe cases, may lead to vehicle impoundment. It aims to ensure road safety for all users.
+
+Q:What is the punishment for dangerous driving
+A:Dangerous driving includes reckless maneuvers, aggressive driving, or endangering others on the road. The Motor Vehicle Act prescribes fines, imprisonment, or both for such offenses. Dangerous driving is considered a serious threat to life and property.
+
+Q:What happens if a driver does not wear a seatbelt
+A:Failure to wear a seatbelt while driving or riding in a vehicle is punishable under the Motor Vehicle Act. Offenders are liable to pay a fine, and repeated violations may attract license suspension. Seatbelts significantly reduce injuries in accidents, hence strict enforcement.
+
+Q:What is the penalty for not wearing a helmet
+A:Not wearing a helmet while riding a two-wheeler is a punishable offense. Violators are fined according to the Motor Vehicle Act. Helmets prevent serious head injuries and fatalities, making this law crucial for rider safety.
+
+Q:What is the fine for using a mobile phone while driving
+A:Using a mobile phone while driving is a traffic offense under the Motor Vehicle Act. The penalty includes a monetary fine and points on the driving license. This law aims to reduce distractions and prevent accidents caused by inattention.
+
+Q:What is the punishment for wrong-side driving
+A:Driving on the wrong side of the road is a traffic violation. Offenders are liable to pay a fine and can have points added to their license. Repeated violations may lead to suspension. This rule prevents head-on collisions and ensures smooth traffic flow.
+
+Q:What is the fine for triple riding on motorcycles
+A:Riding more than two people on a two-wheeler is prohibited under traffic laws. Violators are fined, and repeated offenses can lead to license penalties. The law ensures safety for riders and prevents overloading-related accidents.
+
+Q:What is the penalty for overloading a vehicle
+A:Overloading goods or passengers beyond vehicle capacity is illegal under the Motor Vehicle Act. Penalties include fines, vehicle impoundment, and liability for damages in case of accidents. Overloading increases risk of accidents and mechanical failures.
+
+Q:What is the punishment for driving without a license
+A:Driving a vehicle without a valid license is a serious offense. The Motor Vehicle Act imposes fines, vehicle seizure, and possible imprisonment. It is considered dangerous as unlicensed drivers may lack the skills to operate vehicles safely.
+
+Q:What is the fine for not having vehicle insurance
+A:Driving without valid vehicle insurance is illegal. Violators must pay fines and may be held liable for damages in case of accidents. Insurance ensures that victims receive compensation, making it essential for all vehicles.
+
+Q:What is the penalty for drunken driving
+A:Driving under the influence of alcohol or drugs is strictly prohibited. The Motor Vehicle Act prescribes fines, imprisonment, and suspension or cancellation of the license. Drunk driving is a major cause of road accidents and fatalities.
+
+Q:What is the punishment for not following lane discipline
+A:Not maintaining proper lane discipline can lead to fines under traffic laws. Repeated violations can result in points added to the driving license or suspension. Lane discipline ensures smooth traffic flow and reduces collisions.
+
+Q:What is the fine for jumping a railway crossing
+A:Crossing railway tracks when barriers are down or signals indicate stop is a traffic offense. Violators face fines, possible imprisonment, and vehicle seizure. This law prevents accidents at railway crossings and ensures public safety.
+
+Q:What is the penalty for illegal parking
+A:Parking a vehicle in restricted zones or blocking traffic is punishable. Offenders are fined, and the vehicle may be towed. Illegal parking disrupts traffic, causes congestion, and can obstruct emergency vehicles.
+
+Q:What is the punishment for not giving way to emergency vehicles
+A:Failing to yield to ambulances, fire trucks, or police vehicles is a traffic violation. Penalties include fines and points on the driving license. This law ensures that emergency services can operate efficiently and save lives.
+
+Q:What is the fine for obstructing pedestrian crossings
+A:Stopping or parking on pedestrian crossings is illegal. Violators face fines and possible license points. Pedestrian safety is critical, and this rule prevents accidents and ensures smooth foot traffic.
+
+Q:What is the penalty for honking in no-honking zones
+A:Using a horn in designated no-honking zones is punishable under traffic laws. Offenders may be fined. These rules reduce noise pollution and maintain peaceful urban environments.
+
+Q:What is the fine for driving without valid registration
+A:Driving a vehicle without a valid registration certificate is an offense. The Motor Vehicle Act imposes fines, and the vehicle may be impounded. Registration ensures vehicle traceability and compliance with safety standards.
+
+Q:What is the punishment for obstructing traffic signals
+A:Disobeying or blocking traffic signals is a violation. Offenders are fined, and repeated violations can lead to license suspension. Traffic signals control the flow of vehicles and prevent accidents.
+
+Q:What is the penalty for selling expired products
+A:Selling expired or perished goods is prohibited under the Consumer Protection Act. Offenders may face fines, imprisonment, and mandatory product recall. This ensures consumer safety and maintains trust in manufacturers and retailers.
+
+Q:What is the consumer’s right against unfair contract terms
+A:Consumers cannot be forced into unfair contract terms that cause loss or exploitation. The Consumer Protection Act allows complaints against such agreements, with remedies including compensation or nullification of the terms. This ensures fair business practices.
+
+Q:What is liability of service providers for negligence
+A:Service providers are legally responsible for losses caused due to negligence, carelessness, or incomplete services. Consumers can seek compensation under the Consumer Protection Act for financial or physical harm suffered due to such deficiencies.
+
+Q:What is the penalty for false labeling
+A:False labeling, including wrong weight, quantity, or quality, is punishable. Offenders may be fined or face imprisonment, and products may be recalled. Accurate labeling ensures that consumers are informed and protected from deception.
+
+Q:What is the role of consumer forums in product recalls
+A:Consumer forums can order product recalls if goods are found unsafe or defective. They ensure the manufacturer removes the harmful products from the market and provides refunds, replacements, or compensation to affected consumers.
+
+Q:What is the legal action against hoarding of essential goods
+A:Hoarding of essential commodities is a violation of consumer protection and other related laws. Offenders can be penalized with fines, imprisonment, and seizure of goods. This law ensures availability and fair pricing for consumers.
+
+Q:What is liability for misleading product endorsements
+A:Endorsements by celebrities or influencers must be truthful. Misleading claims can result in fines, corrective advertising, or legal action under the Consumer Protection Act. Consumers rely on such endorsements, making accountability crucial.
+
+Q:What is the consumer’s right to grievance escalation
+A:If a district consumer forum fails to address a complaint satisfactorily, consumers have the right to escalate the case to state or national commissions. This ensures access to higher authorities for fair resolution and enforcement of rights.
+
+Q:What is the penalty for spurious or adulterated products
+A:Selling spurious, adulterated, or contaminated products is a serious offense. The Consumer Protection Act provides fines, imprisonment, and mandatory product removal from the market. This protects consumer health and safety.
+
+Q:What is liability for defective medical devices
+A:Manufacturers and sellers are responsible for defects in medical devices. Consumers injured due to faulty devices can claim compensation under the Consumer Protection Act. It ensures accountability in the healthcare sector.
+
+Q:What is the penalty for unfair pricing practices
+A:Unfair pricing, including price manipulation, overcharging, or hidden costs, is punishable. Offenders may face fines and corrective measures. Transparent pricing ensures fairness and protects consumer interests.
+
+Q:What is the consumer’s right to cancel online orders
+A:Consumers can cancel online orders within the stipulated time and receive full refunds if the cancellation complies with the platform’s policies. Platforms must facilitate easy cancellation and refund as per the Consumer Protection Act.
+
+Q:What is liability for substandard services in online platforms
+A:Online service providers, including delivery and e-commerce platforms, are accountable for deficiencies. Consumers can file complaints for delayed, incomplete, or faulty services and seek compensation or corrective measures.
+
+Q:What is the role of product liability under consumer law
+A:Product liability makes manufacturers, distributors, and retailers responsible for harm caused by defective products. Consumers can claim damages for injury, financial loss, or property damage. It ensures accountability across the supply chain.
+
+Q:What is the penalty for spamming or unsolicited marketing
+A:Sending spam messages, calls, or emails with misleading offers is punishable under consumer protection regulations. Offenders may face fines, restrictions, or legal action. This protects consumer privacy and prevents fraud.
+
+Q:What is the consumer’s right to replacement
+A:Consumers have the right to request replacement for defective or substandard goods. Sellers must provide a replacement within a reasonable period. This ensures that consumers are not forced to bear the loss due to faulty products.
+
+Q:What is liability for negligence in financial services
+A:Banks, insurance companies, and other financial service providers must maintain proper service standards. Negligence, mismanagement, or misinformation can lead to complaints and compensation claims under the Consumer Protection Act.
+
+Q:What is the penalty for non-compliance with warranty terms
+:Service providers or sellers must honor warranty or guarantee commitments. Failure to do so can attract fines, penalties, or legal action. This ensures that consumers receive promised services or product repairs.
+
+Q:What is the consumer’s right to seek information about pricing
+:Consumers have the right to access clear, accurate, and complete information about product pricing. Hidden charges, surcharges, or misleading price tags violate the Consumer Protection Act and can result in complaints and corrective measures.
+
+Q:What is the role of alternative dispute resolution in consumer law
+:Mediation, conciliation, or arbitration allows consumers to resolve disputes without formal litigation. These methods save time and cost while ensuring fair outcomes. Consumer forums often encourage ADR before proceeding with full legal hearings.
+
+Q:What is financial fraud
+A:Financial fraud involves illegal activities to gain money or property dishonestly, such as embezzlement, forgery, or Ponzi schemes. Victims can file complaints with police or financial regulatory authorities. Penalties include fines, imprisonment, and restitution to victims.
+
+Q:What is cyber fraud
+A:Cyber fraud is the use of digital platforms to deceive individuals or organizations for financial or personal gain. Examples include phishing, hacking, and online scams. Offenders can face imprisonment, fines, and prosecution under the Information Technology Act.
+
+Q:What is identity theft
+A:Identity theft occurs when someone illegally uses another person’s personal information, such as Aadhaar, PAN, or bank details, for financial gain or fraudulent activities. Victims can report to police and banks, and offenders face imprisonment and fines.
+
+Q:What is cheque bounce fraud
+A:Cheque bounce fraud happens when a person issues a cheque knowing there are insufficient funds or with fraudulent intent. The Negotiable Instruments Act prescribes penalties, including fines and imprisonment for the drawer of the cheque.
+
+Q:What is credit card fraud
+A:Credit card fraud involves unauthorized use of someone else’s credit card to make purchases or withdraw money. Offenders can be prosecuted under the Indian Penal Code and IT Act, and victims can approach banks for chargebacks and compensation.
+
+Q:What is insurance fraud
+A:Insurance fraud includes false claims, misrepresentation, or exaggeration to receive unwarranted insurance payouts. It is punishable under the Insurance Act and the IPC, with fines, imprisonment, and cancellation of insurance policies.
+
+Q:What is phishing scam
+A:Phishing scams use fake emails, websites, or messages to trick individuals into revealing confidential information. Victims can report to cybercrime cells, and offenders may face imprisonment, fines, and legal prosecution.
+
+Q:What is ATM fraud
+A:ATM fraud involves unauthorized access to an individual’s bank account using stolen cards, skimming devices, or hacking. Offenders are punishable under the IPC and IT Act, and banks provide mechanisms for reporting and reversing fraudulent transactions.
+
+Q:What is online shopping fraud
+A:Online shopping fraud occurs when sellers or platforms cheat buyers by delivering fake, substandard, or no products. Consumers can file complaints under the Consumer Protection Act and cybercrime laws for compensation and legal action.
+
+Q:What is tax evasion fraud
+:Tax evasion involves illegally avoiding paying taxes or misreporting income. The Income Tax Act prescribes fines, penalties, and imprisonment for offenders. It is a white-collar crime affecting government revenue.
+
+Q:What is ATM card cloning
+:ATM card cloning involves copying a card’s data using skimming devices to withdraw money fraudulently. It is punishable under IPC and IT Act provisions, and victims can report to banks and cybercrime authorities for recovery.
+
+Q:What is fraud by fake job offers
+:Fraudsters offer non-existent jobs to trick victims into paying fees or sharing personal information. It is punishable under IPC sections on cheating and cybercrime provisions. Victims should report to police and employment portals.
+
+Q:What is telecom fraud
+:Telecom fraud involves unauthorized use of phone services, SIM swapping, or phishing calls to steal money or data. Offenders are prosecuted under the IPC and IT Act, and victims can report to telecom operators and cybercrime authorities.
+
+Q:What is Ponzi scheme
+:A Ponzi scheme is a fraudulent investment operation where returns are paid to earlier investors using funds from new investors. It is illegal under the IPC and financial regulatory laws. Perpetrators can face imprisonment and fines, and victims can seek restitution.
+
+Q:What is fake banking app fraud
+:Fraudsters create fake banking apps to steal login credentials and financial data. Victims can report to banks and cybercrime authorities. Offenders face prosecution under the IT Act and IPC for financial crimes.
+
+Q:What is social media fraud
+:Social media fraud involves fake profiles, scams, or phishing messages to defraud users. It is punishable under the IT Act and IPC. Victims are advised to report fake accounts and avoid sharing sensitive information online.
+
+Q:What is real estate fraud
+:Real estate fraud occurs when property is sold illegally, misrepresented, or forged documents are used. Offenders can be prosecuted under IPC, Transfer of Property Act, and other property laws. Victims can file complaints in civil courts for compensation.
+
+Q:What is fake document fraud
+:Fraud using forged or counterfeit documents, such as certificates, licenses, or IDs, is punishable under IPC sections on forgery and cheating. Victims can report to police, and offenders face imprisonment, fines, and legal prosecution.
+
+Q:What is online investment scam
+:Online investment scams promise high returns but are fraudulent. Offenders mislead investors and disappear with funds. Victims can report to SEBI, police, or cybercrime cells for legal action and recovery of funds.
+
+Q:What is lottery fraud
+:Lottery fraud involves informing victims they won a prize but asking for advance fees or personal details. It is punishable under IPC and cybercrime laws. Victims should avoid sharing information and report to authorities.
+
+Q:What is credit card skimming
+:Credit card skimming is the unauthorized capture of card data at ATMs or point-of-sale devices. Offenders use the stolen data for fraudulent transactions. It is punishable under IPC, and victims should report to banks immediately.
+
+Q:What is cheating by false promises
+:Cheating by false promises involves deceiving someone to obtain property, money, or benefits under false pretenses. It is punishable under IPC with fines and imprisonment. Victims can lodge complaints with police.
+
+Q:What is fraud in online education
+:Fraud in online education occurs when institutes or individuals provide fake courses, certificates, or admissions for profit. It is punishable under IPC and consumer protection laws. Victims can file complaints for compensation and legal action.
+
+Q:What is money laundering
+:Money laundering is the process of disguising illegally obtained money as legitimate. It is a serious crime under the Prevention of Money Laundering Act, with penalties including fines, seizure of assets, and imprisonment. It often involves fraud and corruption.
+
+Q:What is phishing by SMS
+:SMS phishing, also called smishing, tricks users into revealing sensitive information via fake messages. Offenders can be prosecuted under the IT Act and IPC. Users are advised to avoid clicking links or sharing personal details.
+
+Q:What is online auction fraud
+:Online auction fraud occurs when sellers misrepresent goods or fail to deliver items in auction platforms. Victims can report to cybercrime authorities and consumer forums. Offenders can face imprisonment, fines, and compensation claims.
+
+Q:What is fraudulent insurance claim
+:Fraudulent insurance claims involve submitting false or exaggerated claims to obtain insurance payouts. It is punishable under the Insurance Act and IPC. Authorities can impose fines, imprisonment, and cancellation of policies.
+
+Q:What is stock market manipulation
+A:Stock market manipulation is the illegal practice of artificially inflating or deflating the price of securities to mislead investors. It is punishable under the Securities and Exchange Board of India (SEBI) Act, with penalties including imprisonment and heavy fines.
+
+Q:What is embezzlement
+A:Embezzlement occurs when a person entrusted with money or property dishonestly uses it for personal gain. It is a financial fraud punishable under IPC with imprisonment, fines, and restitution to victims.
+
+Q:What is phishing through QR codes
+A:Fraudsters use fake QR codes to redirect payments or steal confidential information. Victims can report to cybercrime authorities, and offenders face punishment under the IT Act and IPC provisions.
+
+Q:What is cryptocurrency fraud
+A:Cryptocurrency fraud includes fake exchanges, Ponzi schemes, and wallet hacking. Offenders can face imprisonment and fines under IPC and IT Act, and victims can approach cybercrime cells and financial authorities.
+
+Q:What is loan fraud
+A:Loan fraud occurs when individuals or companies obtain loans by providing false documents or information. It is punishable under IPC for cheating and forgery, and banks may initiate recovery actions.
+
+Q:What is insider trading fraud
+A:Insider trading fraud happens when people with confidential company information trade stocks for unfair gains. SEBI Act imposes severe penalties including fines, imprisonment, and disqualification from trading.
+
+Q:What is clickbait fraud
+A:Clickbait fraud tricks users into clicking misleading links that steal data or install malware. It is punishable under the IT Act, and victims are advised not to share personal details through such links.
+
+Q:What is fake charity fraud
+A:Fraudsters create fake charities to collect donations for non-existent causes. Victims can file complaints under IPC cheating provisions, and offenders face imprisonment and fines.
+
+Q:What is SIM swap fraud
+A:SIM swap fraud involves criminals duplicating a victim’s SIM card to access OTPs and financial accounts. It is punishable under IPC and IT Act, and victims must immediately report to telecom operators.
+
+Q:What is pyramid scheme
+A:A pyramid scheme is a fraudulent investment model where money from new participants is used to pay earlier ones. It is illegal under the Prize Chits and Money Circulation Schemes Act, with imprisonment and fines.
+
+Q:What is fake loan app fraud
+A:Fake loan apps promise quick loans but steal data or extort money through harassment. Victims can report under the IT Act and Consumer Protection Act, while offenders face imprisonment and penalties.
+
+Q:What is corporate fraud
+A:Corporate fraud occurs when companies or officials falsify accounts, mislead investors, or engage in illegal practices. It is punishable under the Companies Act, SEBI regulations, and IPC.
+
+Q:What is election fraud
+A:Election fraud involves illegal practices like vote-buying, impersonation, or tampering with results. It is punishable under IPC and Representation of the People Act with fines, imprisonment, and disqualification.
+
+Q:What is academic fraud
+A:Academic fraud includes cheating, using fake certificates, or impersonation in exams. It is punishable under IPC forgery sections and university rules, with imprisonment, fines, or cancellation of degrees.
+
+Q:What is counterfeit currency crime
+A:Counterfeit currency crime involves making or circulating fake currency notes. It is punishable under IPC Section 489 with imprisonment up to life and heavy fines.
+
+Q:What is passport fraud
+A:Passport fraud involves obtaining or using forged passports. It is punishable under the Passport Act and IPC, with imprisonment, fines, and travel restrictions.
+
+Q:What is smuggling
+A:Smuggling is the illegal import or export of goods to avoid taxes or bans. It is punishable under the Customs Act and IPC with imprisonment, fines, and confiscation of goods.
+
+Q:What is drug trafficking
+A:Drug trafficking is the illegal production, distribution, or sale of narcotics. It is punishable under the NDPS Act with severe penalties including long-term imprisonment and even death in extreme cases.
+
+Q:What is human trafficking
+A:Human trafficking involves illegal trade of humans for forced labor, sexual exploitation, or slavery. It is punishable under IPC Sections 370–374 with imprisonment up to life.
+
+Q:What is extortion
+A:Extortion is the act of threatening someone to obtain money, property, or favors. It is punishable under IPC Section 383 with imprisonment and fines.
+
+Q:What is bribery
+A:Bribery involves offering or accepting money or benefits to influence decisions. It is punishable under the Prevention of Corruption Act with imprisonment and fines.
+
+Q:What is forgery
+A:Forgery means creating or altering documents with intent to deceive. It is punishable under IPC Sections 463–471 with imprisonment, fines, and confiscation of forged items.
+
+Q:What is kidnapping for ransom
+A:Kidnapping for ransom is illegally detaining a person and demanding money or benefits for release. It is punishable under IPC Section 364A with life imprisonment or death penalty.
+
+Q:What is stalking crime
+A:Stalking is repeated unwanted attention or harassment towards someone. It is punishable under IPC Section 354D with imprisonment and fines.
+
+Q:What is voyeurism
+A:Voyeurism is watching or recording someone’s private activities without consent. It is punishable under IPC Section 354C with imprisonment and fines.
+
+Q:What is dowry harassment
+A:Dowry harassment occurs when a husband or his family mistreats a woman for dowry demands. It is punishable under IPC Section 498A with imprisonment and fines.
+
+Q:What is acid attack crime
+A:Acid attack involves intentionally throwing acid to cause injury or disfigurement. It is punishable under IPC Sections 326A and 326B with imprisonment up to life.
+
+Q:What is sexual harassment at workplace
+A:Sexual harassment at workplace includes unwelcome behavior like comments, touching, or advances. It is addressed under IPC Section 354A and the POSH Act with fines and imprisonment.
+
+Q:What is child pornography crime
+A:Child pornography involves creating, distributing, or possessing sexual content of minors. It is punishable under the POCSO Act and IT Act with imprisonment and fines.
+
+Q:What is organized crime
+A:Organized crime is large-scale illegal activity conducted by groups, such as smuggling, drug trade, or extortion. It is punishable under IPC and state-specific organized crime laws.
+
+Q:What is money counterfeiting
+A:Money counterfeiting involves making or distributing fake coins or notes. It is punishable under IPC Section 489 with life imprisonment or heavy fines.
+
+Q:What is arms smuggling
+A:Arms smuggling is the illegal transport or sale of weapons. It is punishable under the Arms Act with imprisonment and confiscation of weapons.
+
+Q:What is wildlife poaching
+A:Wildlife poaching is illegal hunting or killing of protected animals. It is punishable under the Wildlife Protection Act with imprisonment and heavy fines.
+
+Q:What is corporate espionage
+A:Corporate espionage is stealing trade secrets or confidential company information. It is punishable under IPC, IT Act, and Companies Act with imprisonment and fines.
+
+Q:What is phone call scam
+A:Phone call scam involves fraudsters impersonating officials to extract money or data. It is punishable under IPC cheating provisions and IT Act.
+
+Q:What is phishing through WhatsApp
+A:Phishing through WhatsApp involves fake links or messages to steal personal data. It is punishable under the IT Act with imprisonment and fines.
+
+Q:What is land grabbing crime
+A:Land grabbing is the illegal occupation or sale of land without ownership rights. It is punishable under IPC and property laws with imprisonment and fines.
+
+Q:What is cyberstalking
+A:Cyberstalking is the act of using online platforms to harass or threaten individuals. It is punishable under IPC Section 354D and IT Act with imprisonment.
+
+Q:What is fake medical product fraud
+A:Selling fake or expired medicines as genuine is fraud. It is punishable under the Drugs and Cosmetics Act with imprisonment and fines.
+
+Q:What is charity misuse crime
+A:Charity misuse crime occurs when funds meant for welfare are diverted for personal gain. It is punishable under IPC cheating provisions and financial regulations.
+
+Q:What is fake police impersonation fraud
+A:Fraudsters impersonate police officers to extort money or information. It is punishable under IPC Section 170 with imprisonment and fines.
+
+Q:What is sextortion
+A:Sextortion involves threatening to share private images or videos unless money or favors are given. It is punishable under IPC, IT Act, and POCSO if minors are involved.
+
+Q:What is data breach crime
+A:A data breach occurs when sensitive information is illegally accessed or leaked. It is punishable under IT Act Sections 43 and 66 with imprisonment and fines.
+
+Q:What is intellectual property theft
+A:Intellectual property theft involves unauthorized use of patents, copyrights, or trademarks. It is punishable under IPC and intellectual property laws.
+
+Q:What is blackmail
+A:Blackmail is threatening to reveal damaging information unless demands are met. It is punishable under IPC Sections 503 and 506 with imprisonment.
+
+Q:What is highway robbery
+A:Highway robbery is the act of stealing or threatening travelers on roads. It is punishable under IPC Sections 392–402 with imprisonment and fines.
+
+Q:What is dacoity
+A:Dacoity is a crime committed by five or more persons jointly committing robbery. It is punishable under IPC Section 395 with life imprisonment or death in certain cases.
+
+Q:What is trespass crime
+A:Trespass involves entering someone’s property without permission. It is punishable under IPC Section 441 with imprisonment or fines.
+
+Q:What is sedition
+A:Sedition is inciting hatred or disaffection against the government through words or actions. It is punishable under IPC Section 124A with imprisonment up to life.
+
+Q:What is arson
+A:Arson is the criminal act of deliberately setting fire to property. It is punishable under IPC Section 435 with imprisonment and fines.
+
+Q:What is conspiracy to commit crime
+A:Conspiracy to commit crime is when two or more people agree to perform an illegal act. It is punishable under IPC Section 120B with imprisonment and fines.
+
+Q:What is the difference between bailable and non-bailable offence
+A:A bailable offence is one where an accused has the right to get bail from the police or magistrate, like minor theft. A non-bailable offence is more serious, like murder or rape, where bail is not a right and is granted only by the court. The decision depends on the seriousness of the crime. This classification is made under the Code of Criminal Procedure (CrPC). It ensures justice while protecting society from dangerous offenders.
+
+Q:What is an FIR in police terms
+A:FIR stands for First Information Report. It is the written document prepared by police when they receive information about the commission of a cognizable offence. Once FIR is filed, the police must investigate the case. It is the first step in the criminal justice system. Citizens have the right to file an FIR at the nearest police station.
+
+Q:What is a cognizable offence
+A:A cognizable offence is one where police can register an FIR and arrest the accused without prior approval from a magistrate. These are usually serious crimes like murder, robbery, rape, or kidnapping. Such offences carry stricter punishments as per law. Police have more powers in these cases to act quickly. It helps ensure speedy action against criminals.
+
+Q:What is a non-cognizable offence
+A:A non-cognizable offence is one where police cannot arrest the accused or register an FIR without prior approval from a magistrate. Examples include defamation, public nuisance, or simple hurt. These offences are less serious in nature compared to cognizable ones. The procedure is slower and requires the complainant to approach a magistrate. This ensures protection of individual liberty in minor disputes.
+
+Q:What is anticipatory bail
+A:Anticipatory bail is a legal protection given by courts to a person who fears arrest in a false or motivated case. It allows the person to apply in advance to avoid being taken into custody. It is commonly granted in cases where allegations may be exaggerated. The court checks if the accused is cooperating with investigation. It helps protect citizens from unnecessary harassment.
+
+Q:What is the difference between summons and warrant
+A:A summons is a legal order issued by a court asking a person to appear before it. A warrant is a stronger order that allows police to arrest and bring the person to court. Summons is used for minor offences while a warrant is for serious ones. Both are part of criminal procedure under CrPC. They ensure that accused persons attend court hearings.
+
+Q:What is preventive detention
+A:Preventive detention means keeping a person in custody not because they have committed a crime, but to prevent them from doing something harmful in the future. It is used for maintaining public order or national security. The Constitution allows preventive detention laws, but also sets time limits and review by advisory boards. It is considered an extraordinary power. Courts supervise to avoid misuse against innocent citizens.
+
+Q:What is the difference between murder and culpable homicide
+A:Murder is an unlawful killing done with clear intention to cause death. Culpable homicide is a killing that may not always be intentional but still unlawful, like death caused in a sudden fight. Both are punishable under IPC but murder has stricter punishment. Courts examine the intention and circumstances carefully. The difference lies in the degree of intention.
+
+Q:What is a compoundable offence
+A:A compoundable offence is one where the complainant can agree to withdraw the case and settle with the accused. Examples are minor hurt, trespass, or simple quarrels. Such settlement requires court permission in some cases. It helps save time and reduce burden on courts. It also encourages compromise in minor disputes.
+
+Q:What is a non-compoundable offence
+A:A non-compoundable offence is one where the case cannot be withdrawn or settled by the complainant. Examples are rape, murder, or kidnapping. These crimes are considered serious against society. The state prosecutes the accused even if the complainant wants to withdraw. Courts ensure strict punishment in such offences.
+
+Q:What is plea bargaining
+A:Plea bargaining is a legal process where an accused agrees to plead guilty to a lesser charge in exchange for lighter punishment. It is allowed in India for offences with punishment less than 7 years and no impact on society. It saves time for courts and benefits the accused with a reduced sentence. It must be voluntary and approved by the court. It helps reduce case backlogs.
+
+Q:What is bail
+A:Bail is a legal process of releasing an accused from custody on condition that they will appear in court for trial. It may require money or a surety as a guarantee. Bail protects the personal liberty of individuals before they are proven guilty. Courts decide bail based on the seriousness of offence and chances of the accused fleeing. It ensures balance between justice and freedom.
+
+Q:What is parole
+A:Parole is a temporary release granted to a prisoner to meet family needs, medical treatment, or other emergencies. The person must return to jail after the parole period ends. It is different from bail as it is given after conviction. Parole is a reformative measure to help prisoners stay connected with society. Misuse of parole can lead to cancellation.
+
+Q:What is probation
+A:Probation is a legal system where instead of sending a convicted person to jail, the court allows them to remain in society under supervision. It is given for less serious crimes and first-time offenders. The aim is to reform rather than punish. The person must follow conditions set by the court. Any violation can result in jail time.
+
+Q:What is a charge sheet
+A:A charge sheet is a formal document filed by police in court after investigation of a case. It contains details of the offence, evidence, and witnesses against the accused. Filing a charge sheet means the police believe the accused is guilty. It marks the start of trial in court. Without a charge sheet, the case cannot proceed.
+
+Q:What is cross examination in court
+A:Cross examination is when the lawyer of the opposite side questions a witness to test their truthfulness. It is an important part of fair trial. It helps the judge know if the witness is reliable. Witnesses must answer truthfully under oath. Cross examination often exposes lies or weak evidence. It ensures justice by verifying facts.
+
+Q:What is circumstantial evidence
+A:Circumstantial evidence is indirect proof that points towards the guilt of a person. For example, fingerprints at the crime scene or last seen together. It is not direct like eyewitness testimony. Courts use circumstantial evidence carefully to ensure no wrongful conviction. If chain of circumstances is strong, it can convict an accused. It is very common in criminal trials.
+
+Q:What is direct evidence
+A:Direct evidence is proof that directly shows the commission of a crime, like an eyewitness account or confession. It leaves little room for doubt. Courts rely heavily on direct evidence when available. It is stronger than circumstantial evidence. However, false testimonies can weaken it. Both direct and circumstantial evidence are important in trials.
+
+Q:What is confession in criminal law
+A:A confession is a statement by the accused admitting they committed the crime. It is considered strong evidence but must be given voluntarily. Confessions made to police officers are generally not admissible in court unless made before a magistrate. This prevents forced confessions. Courts ensure the rights of accused are protected.
+
+Q:What is the difference between civil and criminal law
+A:Civil law deals with disputes between individuals, like property or contracts, while criminal law deals with acts against society like theft or murder. Civil cases result in compensation while criminal cases result in punishment. Civil cases are private in nature, while criminal cases are prosecuted by the state. Both are essential for justice. This distinction helps courts handle matters properly.
+
+Q:What is the role of a public prosecutor
+A:A public prosecutor is a lawyer who represents the state in criminal cases. Their duty is to present evidence against the accused and help the court find the truth. They must act fairly and not just try to win. They ensure justice is done in the interest of society. Their independence is very important for fair trial.
+
+Q:What is the role of a defense lawyer
+A:A defense lawyer represents the accused in a criminal case. Their duty is to protect the rights of the accused and challenge the evidence presented by the prosecution. They ensure the accused gets a fair trial. They also advise the accused about legal options. Even guilty persons have the right to defense in law.
+
+Q:What is juvenile justice
+A:The Juvenile Justice system deals with crimes committed by children under 18 years of age. It focuses on reform and rehabilitation rather than punishment. Juveniles are sent to special homes instead of prisons. Serious crimes may lead to trial as adults in exceptional cases. The Juvenile Justice Act governs these matters. Its goal is to protect children’s rights.
+
+Q:What is the difference between summons case and warrant case
+A:A summons case is one where punishment is less severe, usually not more than 2 years, and the trial is simpler. A warrant case involves serious offences with punishment over 2 years, and trials are more detailed. The procedure is different to save time. Both are provided under the CrPC. This ensures proportional justice.
+
+Q:What is double jeopardy in law
+A:Double jeopardy means a person cannot be tried again for the same offence once they are acquitted or convicted. It is a constitutional right under Article 20. This protects citizens from harassment by repeated trials. However, new evidence may lead to reopening of certain cases. It is an important safeguard in criminal justice.
+
+Q:What is the difference between police custody and judicial custody
+A:Police custody means the accused is kept in police station lock-up for investigation. Judicial custody means the accused is sent to jail under magistrate’s order. Police custody allows questioning, but judicial custody is under court supervision. Both are time-bound under law. This distinction protects the rights of accused and controls police power.
+
+Q:What is defamation
+A:Defamation is making false statements about someone to harm their reputation. It can be spoken (slander) or written (libel). The law protects individuals from such attacks. Civil defamation allows compensation, while criminal defamation can lead to fines or imprisonment. Truth is a defense in most cases. Courts balance freedom of speech with protection of reputation.
+
+Q:What is theft under law
+A:Theft is taking someone else’s property without their consent with intent to permanently deprive them. It is punishable under Section 378 of IPC. The police can register an FIR for theft. Punishment varies depending on the value of stolen property. It is considered a cognizable offence. Theft harms individuals and affects public trust in society.
+
+Q:What is robbery
+A:Robbery is theft with violence or threat of violence. Unlike theft, robbery involves immediate danger to the victim. It is punishable under Section 390 of IPC. The law treats it as a serious crime due to use of force. Courts consider severity, weapons used, and injuries while sentencing. Robbery cases are usually investigated quickly by police.
+
+Q:What is cheating
+A:Cheating is intentionally deceiving someone to gain unlawful advantage or cause loss. It is covered under Section 420 of IPC. Examples include fraud, false promises, or misleading advertisements. Cheating is a cognizable offence. Punishment may include imprisonment and fine. Courts check proof of deceit and intention.
+
+Q:What is criminal breach of trust
+A:Criminal breach of trust happens when a person dishonestly misuses property entrusted to them. It is punishable under Section 405 of IPC. This can occur in business, employment, or personal relationships. The law ensures accountability for entrusted property. Punishment may include imprisonment or fine. Courts look at intention and evidence carefully.
+
+Q:What is kidnapping
+A:Kidnapping is taking someone away against their will, usually for ransom, wrong motive, or unlawful purpose. It is a serious crime under Sections 359–363 of IPC. Police must investigate promptly due to danger to victim. Punishment can be rigorous imprisonment. Consent of the victim is crucial in distinguishing some cases. Child kidnapping has stricter laws.
+
+Q:What is unlawful assembly
+A:Unlawful assembly is a group of five or more people gathering with intent to commit a crime. It is punishable under Section 141 of IPC. Even if no crime occurs, the assembly itself is illegal. Police have powers to disperse such groups. The law protects public order and safety. Courts evaluate the purpose and actions of the group.
+
+Q:What is rioting
+A:Rioting is a violent act by an unlawful assembly causing public disorder. Section 146 of IPC covers rioting. It includes use of force or weapons in public. Punishment varies depending on injuries or damages caused. Rioting is a serious threat to safety and property. Courts may punish organizers and participants.
+
+Q:What is assault
+A:Assault is intentionally causing another person to fear or suffer bodily harm. Simple assault is minor injury, while grievous assault causes serious harm. It is punishable under Sections 351–352 of IPC. Even threats without physical contact may qualify as assault. Courts examine intention, action, and injury. Assault is a cognizable offence.
+
+Q:What is murder
+A:Murder is the intentional and unlawful killing of another person. Section 302 of IPC prescribes punishment including life imprisonment or death penalty. The court examines motive, premeditation, and circumstances. It is the gravest offence in criminal law. Police and prosecution follow strict procedures. Courts ensure justice for victims and society.
+
+Q:What is culpable homicide not amounting to murder
+A:Culpable homicide not amounting to murder is causing death without intent to kill in certain circumstances. Section 304 of IPC applies. Examples include sudden fight or negligence. Punishment is less severe than murder. Courts consider intent, provocation, and severity. It balances fairness with accountability.
+
+Q:What is rape under law
+A:Rape is sexual intercourse without consent, often involving force, threat, or coercion. Section 375 of IPC defines it and Section 376 prescribes punishment. Consent, age, and mental capacity are important in law. Punishment can be rigorous imprisonment. It is treated as a serious crime to protect bodily autonomy. Special courts handle rape cases efficiently.
+
+Q:What is sexual harassment
+A:Sexual harassment is unwanted sexual behavior or advances, especially at workplace. It is prohibited under the Sexual Harassment of Women at Workplace Act, 2013. Complaints are investigated by internal committees. Punishments can include warnings, transfer, or dismissal. The law ensures safe work environments. Awareness is key to prevention.
+
+Q:What is domestic violence
+A:Domestic violence is abuse or harm within the family, including physical, emotional, or financial abuse. The Protection of Women from Domestic Violence Act, 2005, provides legal remedies. Victims can seek protection orders, maintenance, and shelter. Police and courts can intervene. The law emphasizes safety and support. Awareness campaigns help prevent abuse.
+
+Q:What is cybercrime
+A:Cybercrime includes crimes using computers or internet, like hacking, phishing, or online fraud. IT Act, 2000, governs cyber offences. Penalties include imprisonment and fines. Investigation may involve digital forensics. Cybercrime harms individuals and businesses. Courts take technology and evidence into account carefully.
+
+Q:What is money laundering
+A:Money laundering is hiding the origin of illegally earned money by making it appear legitimate. It is punishable under the Prevention of Money Laundering Act, 2002. Banks, financial institutions, and government track suspicious transactions. Punishment includes imprisonment and fines. Law ensures economic integrity. Courts examine source and intent.
+
+Q:What is bribery
+A:Bribery is offering or receiving something of value to influence a public official. It is illegal under the Prevention of Corruption Act, 1988. Both giver and receiver can be punished. It undermines governance and public trust. Punishment includes imprisonment and fine. Courts evaluate intent and evidence.
+
+Q:What is forgery
+A:Forgery is creating or altering documents with intent to deceive. It is punishable under Sections 463–465 of IPC. Examples include fake certificates or false contracts. It is considered a serious crime as it undermines trust. Punishment may include imprisonment or fine. Courts examine proof of deception.
+
+Q:What is identity theft
+A:Identity theft is illegally using someone’s personal information for financial or other gains. It is a punishable cybercrime under IT Act. Examples include credit card fraud or fake accounts. Victims can report to police and banks. Punishment includes fines and imprisonment. Awareness helps prevent it. Courts consider intent and damage caused.
+
+Q:What is extortion
+A:Extortion is obtaining property, money, or advantage through threats or coercion. Section 383 of IPC covers it. Even verbal threats to harm can count. Punishment includes imprisonment and fines. Extortion harms individuals and society. Police and courts handle complaints seriously.
+
+Q:What is blackmail
+A:Blackmail is threatening to reveal harmful information about someone unless demands are met. It is punishable under Section 383 of IPC. Even threats without actual disclosure can be criminal. Courts evaluate intent and impact on victim. Punishment includes imprisonment or fine. It is a serious crime against personal liberty.
+
+Q:What is cheque bounce offence
+A:Cheque bounce occurs when a cheque is dishonored due to insufficient funds. Section 138 of Negotiable Instruments Act, 1881, covers this. The drawer can face imprisonment or fine. Complainant can file a case in court. Banks may also assist in recovery. Law encourages financial responsibility and trust.
+
+Q:What is harassment
+A:Harassment is any conduct causing distress, humiliation, or annoyance to a person. It can be physical, verbal, or online. Law prohibits harassment under IPC or specific acts. Victims can approach police or courts for protection. Punishment depends on severity. Courts ensure protection and justice for the victim.
+
+Q:What is trespass
+A:Trespass is entering someone else’s property without permission. Section 441 of IPC governs it. Even brief or unintentional entry can be trespass. Punishment may include fines or imprisonment. Law protects private property. Courts examine intent and circumstances.
+
+Q:What is public nuisance
+A:Public nuisance is an act causing inconvenience, danger, or harm to the public. Section 268 of IPC deals with it. Examples include blocking roads, pollution, or loud noise. Police can take action to prevent it. Punishment includes fines or imprisonment. Law protects public order and health.
+
+Q:What is consumer fraud
+A:Consumer fraud occurs when a business deceives customers, like false claims or defective products. Consumer Protection Act, 2019, covers such cases. Victims can file complaints in consumer forums. Remedies include compensation or replacement. Punishment may include fines for the company. Law ensures consumer rights and fairness.
+
+Q:What is environmental offence
+A:Environmental offences are violations like illegal dumping, pollution, or deforestation. It is punishable under Environmental Protection laws. Authorities can investigate and impose fines or imprisonment. Courts may order restoration of damage. The law protects health, safety, and natural resources. Awareness is key to compliance.
+
+Q:What is drug trafficking
+A:Drug trafficking is illegal production, transport, or sale of narcotic drugs. Narcotic Drugs and Psychotropic Substances Act, 1985, covers it. Punishment can be severe, including long imprisonment or death in extreme cases. Police and customs enforce laws. Courts consider quantity and role of accused. It is a serious crime affecting health and society.
+
+Q:What is Section 300 of IPC
+A:Section 300 of the Indian Penal Code defines murder. It lists the circumstances in which culpable homicide amounts to murder, such as intent to kill or causing bodily injury sufficient to cause death. This section differentiates murder from culpable homicide not amounting to murder. The law ensures strict punishment for intentional killing. Courts consider intention, premeditation, and nature of injury. It is a fundamental provision for criminal justice in India.
+
+Q:What is Section 304 of IPC
+A:Section 304 deals with culpable homicide not amounting to murder. It applies when death is caused without intention to kill, or in sudden fights, or due to negligence. Punishment varies from imprisonment for up to ten years or life. It ensures fairness in sentencing. Courts examine intent, provocation, and circumstances. This section balances accountability with lesser culpability.
+
+Q:What is Section 375 of IPC
+A:Section 375 defines the offence of rape. It specifies acts considered as sexual assault without consent, including coercion or threats. Consent, age, and mental capacity are crucial in determining the crime. Punishment is provided under Section 376 and includes rigorous imprisonment. Law protects bodily autonomy and dignity. Special courts handle such cases to ensure speedy justice.
+
+Q:What is Section 420 of IPC
+A:Section 420 covers cheating and dishonestly inducing delivery of property. It applies when someone deceives another for unlawful gain or to cause loss. Punishment includes imprisonment up to seven years and fine. The law ensures accountability in transactions. Courts require proof of intent and deception. It protects citizens from fraud and dishonest practices.
+
+Q:What is Section 498A of IPC
+A:Section 498A deals with cruelty by husband or relatives toward a woman. It includes physical, mental, or emotional abuse. Punishment can be imprisonment up to three years and fine. The law protects married women from harassment. Police and courts can intervene promptly. Evidence and intent are crucial in cases under this section.
+
+Q:What is Section 506 of IPC
+A:Section 506 prescribes punishment for criminal intimidation. It includes threatening harm to person or property. Punishment varies based on severity, including imprisonment and fines. The law safeguards personal security. Courts consider intention, credibility, and impact on victim. Criminal intimidation can be both a cognizable and non-cognizable offence.
+
+Q:What is Section 109 of IPC
+A:Section 109 deals with abetment of offences. Abetment includes instigating, aiding, or conspiring to commit a crime. The abettor can be punished as if they committed the offence. It ensures that indirect participation in crime is penalized. Courts examine involvement and intent. It prevents encouragement of criminal acts.
+
+Q:What is Article 21 of the Constitution
+A:Article 21 guarantees the right to life and personal liberty. No person can be deprived of life or liberty except according to the procedure established by law. It is a fundamental right. Courts have expanded it to include rights to health, privacy, and a clean environment. Violations can be challenged in courts. It is the cornerstone of individual freedom in India.
+
+Q:What is Article 14 of the Constitution
+A:Article 14 ensures equality before the law and equal protection of laws. It prohibits discrimination based on religion, caste, gender, or other status. The law treats all citizens equally. Courts interpret this broadly to protect rights. It applies to state action and private conduct under certain laws. It is essential for social justice.
+
+Q:What is Article 19 of the Constitution
+A:Article 19 guarantees freedom of speech, expression, assembly, association, movement, residence, and profession. These freedoms are subject to reasonable restrictions. The law balances individual liberty with public order. Courts determine what constitutes reasonable restriction. Violations can be challenged legally. It is vital for democratic functioning.
+
+Q:What is Article 32 of the Constitution
+A:Article 32 gives the right to constitutional remedies. Citizens can move the Supreme Court directly if their fundamental rights are violated. Courts can issue writs such as habeas corpus, mandamus, prohibition, quo warranto, and certiorari. It ensures enforcement of fundamental rights. It is called the “heart and soul” of the Constitution by Dr. B.R. Ambedkar. Timely action protects citizens.
+
+Q:What is Section 407 of IPC
+A:Section 407 deals with criminal breach of trust by public servant or banker. It punishes misuse of property entrusted in an official capacity. Punishment can include imprisonment or fine. The law ensures integrity in positions of trust. Courts examine intent, loss caused, and position of offender. It protects public and financial interests.
+
+Q:What is Section 379 of IPC
+A:Section 379 defines theft. It includes taking someone else’s property without consent with intention to permanently deprive. Punishment varies based on value and circumstances. Police can register FIR for theft. It protects property rights and public trust. Courts examine evidence and intent carefully.
+
+Q:What is Section 390 of IPC
+A:Section 390 defines robbery. It is theft with violence or threat of violence. Unlike theft, robbery involves immediate danger to the victim. Punishment is higher than theft. Law recognizes severity due to violence used. Courts consider injury, threat, and circumstances. It deters forceful theft.
+
+Q:What is Section 354 of IPC
+A:Section 354 punishes assault or criminal force to women with intent to outrage modesty. It includes groping, physical harassment, or intimidation. Punishment includes imprisonment and fine. It protects women’s dignity and safety. Courts assess intent, action, and harm. It is crucial in gender justice.
+
+Q:What is Section 188 of IPC
+A:Section 188 deals with disobedience to an order duly promulgated by public servant. It is often invoked during emergencies, epidemics, or lockdowns. Punishment may include imprisonment or fine. The law ensures public safety and order. Courts consider intent and knowledge of order. It balances individual freedom with collective interest.
+
+Q:What is Section 375A of IPC
+A:Section 375A deals with sexual assault against children under 16 years of age. Punishment is stricter due to vulnerability of minors. Law focuses on protection and rehabilitation of victims. Courts ensure speedy trial. Police follow strict procedures for evidence and custody. It protects children from exploitation.
+
+Q:What is Section 499 of IPC
+A:Section 499 defines defamation. It includes harming reputation by false statements. It can be written (libel) or spoken (slander). Truth is a defense. Punishment may include fines or imprisonment. Law protects personal reputation and ensures free speech is not abused.
+
+Q:What is Section 34 of IPC
+A:Section 34 deals with acts done by several persons in furtherance of common intention. All participants can be held liable as if they committed the act. It ensures accountability in group crimes. Courts examine intention and role of each member. Punishment is according to severity of crime. It prevents escape by claiming indirect involvement.
+
+Q:What is Section 141 of IPC
+A:Section 141 defines unlawful assembly. Five or more people with intent to commit crime are part of unlawful assembly. Even if crime is not committed, assembly itself is illegal. Police have powers to disperse. Punishment depends on actions of group. It protects public order.
+
+Q:What is Section 146 of IPC
+A:Section 146 defines rioting. Use of force or violence by unlawful assembly causing public disorder is rioting. Punishment varies with injuries or damages caused. It protects citizens and property. Courts consider participation, intent, and harm. It ensures law and order in public spaces.
+
+Q:What is Section 138 of Negotiable Instruments Act
+A:Section 138 deals with cheque bounce due to insufficient funds. Drawer can face imprisonment or fine. Complainant can file case in court. It encourages financial responsibility. Banks assist in recovery. Courts check intention, notice, and cheque validity.
+
+Q:What is Section 63 of IPC
+A:Section 63 deals with punishment for attempting to commit offences. Even if crime is incomplete, attempt is punishable. Punishment depends on nature and severity. It deters people from trying to commit crimes. Courts consider intention, preparation, and action. Law ensures accountability for criminal attempts.
+
+Q:What is Section 300 of IPC
+A:Section 300 defines murder under the Indian Penal Code. It explains the circumstances when culpable homicide amounts to murder, like intention to kill or causing injuries likely to cause death. It distinguishes murder from lesser offences. Punishments are severe, including life imprisonment or death. Courts consider intention, premeditation, and severity of injury. This section forms the basis of criminal homicide cases.
+
+Q:What is Section 304 of IPC
+A:Section 304 deals with culpable homicide not amounting to murder. It applies when death is caused without intent to kill or in sudden fights. Punishment can be imprisonment for up to ten years or life. Courts consider provocation, intent, and circumstances. This section ensures fairness in punishment for lesser culpable acts. It protects against excessive sentencing in unintentional deaths.
+
+Q:What is Section 375 of IPC
+A:Section 375 defines the offence of rape. It includes sexual acts without consent through force, threat, or coercion. The law covers consent, age, and mental capacity. Punishment is provided under Section 376, which includes rigorous imprisonment. Courts focus on protecting bodily autonomy and dignity. Special courts expedite such cases for justice.
+
+Q:What is Section 420 of IPC
+A:Section 420 covers cheating and dishonestly inducing delivery of property. It applies when someone deceives another to gain unfairly or cause loss. Punishment includes imprisonment up to seven years and a fine. Courts require proof of intent and deception. The law protects citizens from fraudulent acts. It ensures trust in commercial and personal transactions.
+
+Q:What is Section 498A of IPC
+A:Section 498A deals with cruelty toward a woman by husband or relatives. Cruelty may be physical, mental, or emotional. Punishment can be imprisonment up to three years and a fine. Law protects married women from harassment. Courts require evidence of abuse and intent. It enables legal intervention to ensure safety and dignity.
+
+Q:What is Section 506 of IPC
+A:Section 506 prescribes punishment for criminal intimidation. It includes threatening harm to person or property. Punishment varies with severity, including imprisonment or fines. Courts consider intention and impact on the victim. It protects individuals from threats and fear. Police can intervene promptly to prevent escalation.
+
+Q:What is Section 109 of IPC
+A:Section 109 deals with abetment of offences. Abetment includes instigating, aiding, or conspiring to commit a crime. The abettor can be punished as if they committed the offence. Courts examine involvement, intention, and actions. It ensures accountability for indirect participation. This prevents people from encouraging criminal acts.
+
+Q:What is Article 21 of the Constitution
+A:Article 21 guarantees the right to life and personal liberty. No person can be deprived of life or liberty except according to law. Courts have expanded this to include health, privacy, and clean environment. It is a fundamental right for all citizens. Violations can be challenged in courts. It is essential for personal freedom and dignity.
+
+Q:What is Article 14 of the Constitution
+A:Article 14 ensures equality before the law and equal protection of laws. It prohibits discrimination based on religion, caste, gender, or status. Courts interpret it broadly to protect fundamental rights. It applies to government actions and sometimes private conduct. It ensures fairness and social justice. It is a cornerstone of the legal system.
+
+Q:What is Article 19 of the Constitution
+A:Article 19 guarantees freedoms such as speech, assembly, association, movement, residence, and profession. These freedoms are subject to reasonable restrictions. Courts balance individual rights with public order. Violations can be legally challenged. It is crucial for democratic functioning. The law ensures citizens can express themselves freely.
+
+Q:What is Article 32 of the Constitution
+A:Article 32 gives the right to constitutional remedies. Citizens can approach the Supreme Court if their fundamental rights are violated. Courts can issue writs like habeas corpus, mandamus, and certiorari. It ensures enforcement of fundamental rights. Dr. Ambedkar called it the “heart and soul” of the Constitution. It allows timely protection of citizens.
+
+Q:What is Section 407 of IPC
+A:Section 407 deals with criminal breach of trust by public servants or bankers. Misuse of property entrusted in official capacity is punishable. Punishment includes imprisonment and fines. Courts examine intent, loss caused, and role of offender. It ensures integrity in positions of trust. Citizens’ property and public interest are protected.
+
+Q:What is Section 379 of IPC
+A:Section 379 defines theft. It is taking someone else’s property without consent with intent to permanently deprive. Punishment varies with value and circumstances. Police can register FIR for theft. Courts require proof of intent and unlawful possession. It protects property rights and maintains public order.
+
+Q:What is Section 390 of IPC
+A:Section 390 defines robbery. Robbery is theft involving force or threat of immediate violence. Punishment is stricter than theft. Courts consider threat, injury, and circumstances. It protects citizens and property. The law deters using violence for gain.
+
+Q:What is Section 354 of IPC
+A:Section 354 punishes assault or criminal force to women with intent to outrage modesty. It includes groping, harassment, or intimidation. Punishment involves imprisonment and fines. Courts examine intent, action, and harm caused. Law protects women’s dignity and personal safety. It strengthens gender justice.
+
+Q:What is Section 188 of IPC
+A:Section 188 deals with disobedience to orders from public servants. Common during emergencies, lockdowns, or epidemics. Punishment may include imprisonment or fine. Law ensures public safety and order. Courts examine awareness and intent. It balances individual freedom with collective interest.
+
+Q:What is Section 375A of IPC
+A:Section 375A deals with sexual assault against children under 16 years. Punishment is strict due to vulnerability. Courts focus on protection, rehabilitation, and speedy trial. Police follow strict evidence procedures. It prevents exploitation and abuse of minors. Law ensures child safety in society.
+
+Q:What is Section 499 of IPC
+A:Section 499 defines defamation. It includes harming someone’s reputation by false statements. Can be written (libel) or spoken (slander). Truth is a defense. Punishment may include fines or imprisonment. Law protects personal reputation and prevents abuse of free speech. Courts assess harm and intent carefully.
+
+Q:What is Section 34 of IPC
+A:Section 34 covers acts done by several persons in furtherance of common intention. All participants can be held liable as if they committed the act. Courts examine intention and role of each member. Punishment is based on the severity of the crime. It prevents escape through indirect involvement. It ensures accountability in group crimes.
+
+Q:What is Section 141 of IPC
+A:Section 141 defines unlawful assembly. Five or more people intending to commit a crime form an unlawful assembly. Even if the crime is not committed, assembly is illegal. Police can disperse the group. Courts consider intentions and actions. It protects public order and safety.
+
+Q:What is Section 146 of IPC
+A:Section 146 defines rioting. Violence or force by unlawful assembly causing public disorder is rioting. Punishment varies with injury or damage caused. Courts assess participation, intent, and harm. It protects citizens and property. Law ensures public order and deters group violence.
+
+Q:What is Section 138 of Negotiable Instruments Act
+A:Section 138 deals with cheque bounce due to insufficient funds. Drawer can face imprisonment or fines. Complainant can file a case in court. Law encourages financial responsibility. Banks assist in recovery. Courts examine intention, notice, and validity of the cheque.
+
+Q:What is Section 63 of IPC
+A:Section 63 punishes attempt to commit an offence. Even if the crime is not completed, attempt is punishable. Punishment depends on severity. Courts consider preparation, intention, and action. Law deters criminal attempts. It ensures accountability for actions towards committing a crime.
+
+Q:What is Section 279 of Motor Vehicles Act
+A:Section 279 punishes rash and negligent driving on roads. It includes overspeeding, dangerous overtaking, or reckless driving. Punishment includes fines and possible imprisonment. Courts consider risk, intention, and consequences. Law ensures road safety for all users. Police can take immediate action to prevent accidents.
+
+Q:What is Section 185 of Motor Vehicles Act
+A:Section 185 deals with driving under the influence of alcohol or drugs. Blood alcohol level exceeding limits is illegal. Punishment includes fines and imprisonment. Courts examine impairment and risk. Law protects lives and ensures responsible driving. Drivers are encouraged to avoid intoxicated driving.
+
+Q:What is Section 177 of Motor Vehicles Act
+A:Section 177 defines penalties for violating traffic rules. It includes not obeying signs, signals, or police directions. Punishments involve fines. Law ensures compliance and order on roads. Police can enforce rules immediately. It helps prevent accidents and maintain discipline.
+
+Q:What is Section 112 of Motor Vehicles Act
+A:Section 112 deals with duty to provide information after accidents. Drivers must report accidents involving injury or property damage. Failure leads to fines or imprisonment. Law ensures accountability. Courts examine negligence and response. It helps victims receive timely aid.
+
+Q:What is Section 118 of Motor Vehicles Act
+A:Section 118 punishes dangerous driving in public places. Includes reckless riding, racing, or overtaking. Punishment may include fines or imprisonment. Law ensures public safety. Police can intervene promptly. Courts consider intent, harm, and risk.
+
+Q:What is Section 182 of IPC
+A:Section 182 punishes false information given to public servants. Giving wrong facts obstructs duty or harms others. Punishment includes fines or imprisonment. Courts consider intent and consequences. Law protects public administration. It discourages false reporting.
+
+Q:What is Section 186 of IPC
+A:Section 186 punishes obstructing public servants in lawful duties. Acts causing delay or hindrance fall here. Punishment includes fines or imprisonment. Courts consider intention and impact. Law ensures smooth functioning of government duties. Citizens must cooperate with authorities.
+
+Q:What is Section 392 of IPC
+A:Section 392 deals with robbery. Theft accompanied by violence or threat falls here. Punishment includes imprisonment and fines. Courts examine force, threat, and harm. Law protects citizens’ property and safety. It deters violent crimes.
+
+Q:What is Section 395 of IPC
+A:Section 395 defines dacoity. Theft by five or more people using violence or intimidation is included. Punishment is stricter than robbery. Courts examine planning, force, and harm caused. Law protects public property and safety. Group crimes are severely penalized.
+
+Q:What is Section 396 of IPC
+A:Section 396 punishes dacoity with murder. If anyone is killed during a dacoity, strict punishment applies. Punishment includes life imprisonment or death. Courts examine intent and action. Law deters extreme criminal acts. It ensures justice for victims.
+
+Q:What is Section 41 of IPC
+A:Section 41 allows police to arrest without a warrant in certain cases. Includes offences with punishment above three years or danger to public. Law ensures timely action. Courts supervise arrest procedures. Police can protect citizens and prevent crime. Rights of arrested person must be respected.
+
+Q:What is Section 46 of CrPC
+A:Section 46 explains the power to use force for arrest. Police can apply reasonable force if resisted. Law ensures safety of officers and public. Courts examine necessity and proportionality. It prevents abuse of power. Citizens are protected from excessive force.
+
+Q:What is Section 91 of IPC
+A:Section 91 deals with public servants’ powers to summon assistance. Includes calling public or authorities to enforce law. Punishment exists for disobedience. Law ensures public order. Courts supervise use of power. Citizens must comply during lawful enforcement.
+
+Q:What is Section 72 of IPC
+A:Section 72 punishes breach of secrecy of official documents. Disclosing confidential information without permission is illegal. Punishment includes fines or imprisonment. Law protects public and state interest. Courts examine intent and harm. It ensures integrity in public administration.
+
+Q:What is Section 65 of IPC
+A:Section 65 covers attempts to commit offences. Even incomplete criminal acts are punishable. Punishment depends on intended offence. Courts examine preparation, intent, and action. Law deters criminal attempts. Individuals are accountable for steps toward committing crimes.
+
+Q:What is Section 3 of Prevention of Corruption Act
+A:Section 3 punishes public servants accepting bribes. Bribes can be cash, gifts, or favors. Punishment includes imprisonment and fines. Courts require proof of offer, acceptance, and intent. Law ensures honesty in public office. Citizens benefit from transparency and integrity.
+
+Q:What is Section 4 of Prevention of Corruption Act
+A:Section 4 punishes misappropriation of property by public servants. Using official power for personal gain falls here. Punishment includes imprisonment and fines. Courts examine abuse of position. Law protects public resources. Integrity in governance is maintained.
+
+Q:What is Section 5 of Prevention of Corruption Act
+A:Section 5 covers criminal misconduct by public servants. Acts include favoring contracts, embezzlement, or fraud. Punishment includes imprisonment and fines. Courts examine intention and impact. Law safeguards public trust. Corruption is strongly deterred.
+
+Q:What is Section 73 of IPC
+A:Section 73 deals with making or possessing counterfeit currency. Includes printing or circulating fake notes. Punishment includes imprisonment and fines. Courts examine intent and amount. Law protects economy and public. Counterfeiting is treated as serious offence.
+
+Q:What is Section 74 of IPC
+A:Section 74 punishes offences related to fake stamps or documents. Includes production or use of counterfeit stamps. Punishment includes fines or imprisonment. Law protects government revenue. Courts examine knowledge and intent. It prevents fraudulent practices.
+
+Q:What is Section 75 of IPC
+A:Section 75 deals with offences relating to negotiable instruments. Dishonest acts like forging or using instruments illegally are covered. Punishment includes imprisonment and fines. Courts examine evidence and intent. Law protects financial transactions. It ensures trust in commercial dealings.
+
+Q:What is Section 76 of IPC
+A:Section 76 covers offences relating to property entrusted to agents. Misuse or misappropriation is punishable. Courts examine intention and harm. Punishment includes imprisonment or fines. Law protects owners’ rights. It ensures accountability for entrusted property.
+
+Q:What is Article 32 of the Constitution
+A:Article 32 provides right to constitutional remedies. Citizens can approach Supreme Court for fundamental right violations. Courts can issue writs like habeas corpus, mandamus, or certiorari. It ensures quick enforcement. Law protects individual rights. Timely justice is guaranteed.
+
+Q:What is Article 21A of the Constitution
+A:Article 21A guarantees free and compulsory education for children aged 6–14. Law ensures access to education. Courts can enforce right to education. It promotes literacy and social development. Government must provide schools and teachers. Citizens are empowered through knowledge.
+
+Q:What is Article 243 of the Constitution
+A:Article 243 deals with local self-governance in villages (Panchayati Raj). Law ensures elected local bodies for democracy. Courts supervise proper elections and functioning. It promotes participation and accountability. Citizens have a voice in local decisions. Decentralization strengthens governance.
+
+Q:What is Article 370 of the Constitution
+A:Article 370 granted special status to Jammu & Kashmir. It allowed separate laws and autonomy. Parliament had limited powers. Now, the article is abrogated, but historical significance remains. Courts examined constitutional validity. Law ensured regional autonomy and governance flexibility.
+
+Q:What is Article 368 of the Constitution
+A:Article 368 covers amendment of the Constitution. Parliament can amend provisions according to procedure. Some changes require President’s assent. Courts ensure procedure compliance. It allows legal evolution. Law adapts to social, political, and economic needs.
+
+Q:What is Section 9 of Consumer Protection Act
+A:Section 9 empowers consumers to seek product replacement. Defective goods or services can be returned. Courts ensure timely remedy. Law ensures accountability from sellers. Consumers get refunds, replacement, or compensation. It encourages fair trade practices.
+
+Q:What is Section 10 of Consumer Protection Act
+A:Section 10 defines the right to file complaints at district forums. Local redressal is easy and affordable. Courts consider evidence and issue relief. Law ensures access to justice. Consumers can demand replacement, refund, or compensation. It strengthens consumer rights.
+
+Q:What is Section 11 of Consumer Protection Act
+A:Section 11 covers complaints at state commissions. Appeals from district forums are handled here. Courts review decisions and evidence. Law ensures fair hearing. Consumers can escalate grievances. It maintains accountability of sellers.
+
+Q:What is Section 12 of Consumer Protection Act
+A:Section 12 establishes national commission for consumer grievances. Appeals from state commissions go here. Law provides final legal remedy. Courts can order compensation, replacement, or fines. Consumers’ rights are protected at highest level. It ensures nationwide enforcement.
+
+Q:What is Section 55 of Motor Vehicles Act
+A:Section 55 deals with compulsory insurance of vehicles. All vehicles must have valid insurance. Punishment for non-compliance includes fines. Law ensures compensation in accidents. Courts examine claims and validity. Insurance protects owners and victims.
+
+Q:What is Section 129 of Motor Vehicles Act
+A:Section 129 covers overtaking, speed limits, and safe driving. Violations are punishable by fines. Law ensures orderly traffic flow. Courts consider risk and
+
+Q:How do I report a crime?
+A:Go to the nearest police station and tell them what happened. Ask them to register an FIR for cognizable offences. If you can’t go, many police stations accept online or phone reports. Keep any evidence (messages, photos) and note the FIR number.
+
+Q:What is an FIR and why is it important?
+A:FIR means First Information Report. It is the first official record of a cognizable crime and starts the police investigation. Always get the FIR number and a copy if possible — you’ll need it for follow-up and legal steps.
+
+Q:What should I do if someone stole my phone?
+A:Immediately block the phone and SIM with your service provider, change passwords, and report the theft to police (file an FIR). If the phone has tracking, share details with police. Keep purchase proof if you have it.
+
+Q:How do I complain about a faulty product I bought?
+:Contact the seller or manufacturer first and ask for repair, replacement, or refund. If not resolved, file a complaint with the local consumer forum or online consumer portal with bill and evidence. Keep all receipts and communication.
+
+Q:Where do I pay a traffic fine?
+A:Most traffic fines can be paid online on your state transport or e-challan portal. You can also pay at designated traffic offices or banks. Check the e-challan details for the exact payment method.
+
+Q:What to do if I am stopped by the police?
+:Stay calm, show your ID, driving license, vehicle documents, and cooperate. Ask politely why you were stopped. If you feel your rights are violated, note the officer’s name/ID and file a complaint later.
+
+Q:What documents should I carry while driving?
+:Carry your driving license, vehicle registration (RC), insurance, and pollution (PUC) certificate. These are mandatory and may be checked during traffic stops.
+
+Q:How do I check if a website/shop is a scam?
+:Look for contact details, reviews, return policy, and secure payment (https). Beware of unrealistic offers and demand for advance payments. If in doubt, search complaints online or ask consumer forums before paying.
+
+Q:Can I get free legal aid?
+:Yes — the government provides free legal aid to eligible people (low income, marginalized groups). Contact your local legal aid office or district court; they can assign a lawyer for certain cases.
+
+Q:How long does a criminal case take?
+:It varies widely — from months to years depending on complexity, evidence, and court workload. Some minor cases finish quickly; serious cases take longer. Using mediation, plea bargaining, or fast-track courts can speed things up.
+
+Q:What is a police verification / character certificate?
+:It’s an official document from police confirming your background or residence. Employers or authorities may ask for it. Apply at your local police station or their online portal with identity proof.
+
+Q:What do I do if someone threatens me online?
+:Take screenshots, block the person, and report to the platform (social media). If threats are serious, file a complaint with cybercrime cell or local police and share the evidence.
+
+Q:How do I change name on documents?
+:You usually need an affidavit, newspaper publication, and notification in the government gazette. Then update individual documents (Aadhaar, passport, bank) following each agency’s process and forms.
+
+Q:Can I get help to draft a simple notice or complaint?
+:Yes — many legal aid offices, lawyers, or online legal services can draft basic notices for a fee or free in some cases. Make sure to give clear facts and copies of supporting documents.
+
+Q:What is a consumer forum and how do I approach it?
+:Consumer forums are courts for consumer disputes at district, state, and national levels. File a written complaint with evidence and pay the required fee (based on claim amount). You can also use online portals in many states.
+
+Q:How do I cancel a fraudulent transaction from my bank?
+:Immediately call your bank’s customer service and block the card or account. File a written complaint and dispute the transaction. If needed, file an FIR for fraud and give the FIR copy to the bank.
+
+Q:What should I do if my landlord refuses to return my security deposit?
+:Send a written demand to the landlord asking for deposit return with proof. If ignored, file a civil suit for recovery or approach consumer forum if landlord is a business. Keep lease, receipts, and communication records.
+
+Q:Do I need a lawyer to file a police complaint?
+:No — you can file an FIR yourself at the police station. A lawyer helps with complex cases, follow-up, and court proceedings. For legal advice, free legal aid is available for eligible people.
+
+Q:How can I check the status of an FIR?
+:Visit the police station where FIR was filed or check the police/ state crime portal online (many regions provide FIR status services). Keep your FIR number handy when checking.
+
+Q:What is a cybercrime cell and how do I contact it?
+:A cybercrime cell investigates online crimes like hacking, fraud, or identity theft. Each city or state police has one; contact details are on the police website. Many accept online complaints and provide guidance.
+
+Q:What to do if I receive a legal notice?
+:Read it carefully and note the deadline. Consult a lawyer or legal aid promptly and respond in writing. Do not ignore it — responding can avoid escalation to a court case.
+
+Q:How do I register a complaint against a doctor or hospital?
+:First file a written complaint with the hospital/clinic management for internal resolution. If unresolved, approach the medical council, consumer forum, or health regulator with documents and bills for compensation or action.
+
+Q:Can I file a complaint anonymously?
+:You can give information anonymously in some cases, but for formal FIRs or legal actions, police often need your identity and contact for investigation. If safety is a concern, ask police about protection or confidentiality options.
+
+Q:What to do if I’m accused of a crime wrongly?
+:Stay calm, do not resist arrest, and contact a lawyer immediately. Provide evidence or witnesses proving your innocence. You can apply for bail and challenge the charges in court with legal help.
+
+Q:How to check if a lawyer is qualified?
+:Check their registration number with the Bar Council of India or state bar council. Ask for references, experience in similar cases, and fees. Many bar councils provide online lawyer directories.
+
+Q:What is the emergency number to call for police/ambulance?
+:In many places in India, dial **112** for police, ambulance, and fire emergency response. Keep local emergency numbers handy as well and know nearby hospital contacts.
+
+Q:How do I report a traffic accident?
+:Call emergency services for help, inform police and file an accident report. Take photos, collect witness details, and exchange information with other drivers. Notify your insurer promptly with the FIR and documents.
+
+Q:How can I get a copy of my FIR or police report?
+:You can request a copy from the police station where the FIR was registered. Many stations provide a free copy or online download using the FIR number. Keep it safe for legal or insurance purposes.
+
+Q:What basic documents should I keep for legal matters?
+:Keep ID (Aadhaar, passport), address proof, property papers, bills/receipts, contracts, FIR copies, medical reports, and bank statements. Organized documents make complaints, claims, and court cases much easier.
+
+Q:What is a Zero FIR
+A:A Zero FIR is a First Information Report that can be filed at any police station, regardless of jurisdiction. The station registers it under the serial number '0' and then transfers it to the appropriate station. This ensures that the victim receives immediate assistance without delay, especially in serious cases like rape or murder.
+
+Q:What are the rights of an arrested person
+A:An arrested person has the right to be informed of the grounds of arrest, the right to consult a lawyer, the right to be produced before a magistrate within 24 hours, and the right to medical examination. These rights are protected under the Constitution and the Code of Criminal Procedure (CrPC).
+
+Q:What is a Dying Declaration
+A:A dying declaration is a statement made by a person who is about to die, explaining the cause of their death. Under the Indian Evidence Act, it is considered credible and admissible as evidence in court, even without cross-examination, because it is presumed that a person on their deathbed will speak the truth.
+
+Q:What is an Injunction
+A:An injunction is a court order that compels or prevents a party from performing a specific act. A temporary injunction is granted for a short period to maintain the status quo, while a permanent injunction is issued after a final hearing. It is a common remedy in civil lawsuits, especially in property disputes.
+
+Q:What is the Hindu Marriage Act
+A:The Hindu Marriage Act, 1955, is a law that governs the marriage and divorce of Hindus, Buddhists, Jains, and Sikhs. It lays down the conditions for a valid marriage, procedures for registration, and grounds for divorce, judicial separation, and restitution of conjugal rights.
+
+Q:What is the Special Marriage Act
+A:The Special Marriage Act, 1954, provides a legal framework for the marriage of people from different religions or castes. It allows any two individuals to solemnize their marriage through a civil contract, without needing to renounce their religion. The Act also covers divorce and succession for those married under it.
+
+Q:What is Divorce by Mutual Consent
+A:Divorce by mutual consent is a process where both husband and wife agree to separate peacefully. Under Hindu law, they must live separately for at least one year and file a joint petition in court. After a cooling-off period of six months, the court grants the divorce if both parties still consent.
+
+Q.What is Alimony
+A:Alimony, or maintenance, is a financial allowance paid by one spouse to the other after a divorce or separation. The amount is decided by the court based on the income, assets, and needs of both spouses. It is intended to provide financial support to the spouse who is less financially stable.
+
+Q:What is Child Custody
+A:Child custody is a legal term referring to the rights and responsibilities of parents for their child after a divorce or separation. Courts decide custody based on the child's best interests, considering factors like the child's age, parents' financial stability, and emotional bonding. It can be sole, joint, or shared.
+
+Q:What is a Will
+A:A Will is a legal document that declares a person's wishes regarding the distribution of their property and assets after their death. A valid Will must be in writing, signed by the person making it (testator), and attested by at least two witnesses. It helps prevent disputes among family members.
+
+Q:What is Succession
+A:Succession refers to the legal process of transferring the property of a deceased person to their legal heirs. If there is a Will, the property is distributed accordingly (testamentary succession). If there is no Will, the property is distributed based on the personal laws of the deceased, like the Hindu Succession Act.
+
+Q.What is a Power of Attorney
+A:A Power of Attorney (PoA) is a legal document that allows a person (the principal) to authorize another person (the agent) to act on their behalf in financial or legal matters. A general PoA gives broad powers, while a special PoA is for a specific purpose. It is widely used in property transactions.
+
+Q:What is an Affidavit
+A:An affidavit is a written statement confirmed by oath or affirmation, made voluntarily before a person authorized to administer oaths, like a notary public or an oath commissioner. It is used as evidence in court proceedings and for various official purposes to declare facts as true.
+
+Q.What is a Notary Public
+A:A Notary Public is an official appointed by the government to serve as an impartial witness in the signing of important documents. Their duties include authenticating signatures, administering oaths, and certifying copies of documents to prevent fraud.
+
+Q:What is a Plaint in a civil case
+A:A plaint is the first legal document filed by a plaintiff (the person who sues) to initiate a civil lawsuit in court. It contains the facts of the case, the grievance against the defendant, and the relief or compensation sought from the court. The filing of a plaint marks the beginning of a civil suit.
+
+Q:What is a Written Statement in a civil case
+A:A written statement is the defendant's reply to the plaint filed by the plaintiff. In this document, the defendant admits or denies the allegations made in the plaint and may also present their own version of the facts. It is a crucial part of the pleadings in a civil case.
+
+Q.What is an Expert Opinion in law
+A:An expert opinion is a testimony given in court by a person who has specialized knowledge or skills in a particular field, such as medicine, forensics, or engineering. Under the Indian Evidence Act, their opinion is considered relevant to help the court understand complex technical matters.
+
+Q:What is Hearsay Evidence
+A:Hearsay evidence is a statement made by a witness in court that they heard from someone else, rather than what they saw or experienced personally. It is generally not admissible in court because it is considered unreliable and cannot be cross-examined.
+
+Q:What is the Presumption of Innocence
+A:The presumption of innocence is a fundamental principle of criminal law which states that every person is considered innocent until proven guilty. The burden of proof lies on the prosecution to prove the accused's guilt beyond a reasonable doubt.
+
+Q:What is the Right to Privacy
+A:The Right to Privacy is a fundamental right guaranteed under Article 21 of the Indian Constitution. The Supreme Court has affirmed that citizens have a right to protect their personal information, privacy of their homes, and bodily integrity from unwarranted intrusion by the state or private entities.
+
+Q:What are Fundamental Duties
+A:Fundamental Duties, listed in Article 51A of the Constitution, are a set of moral obligations for all citizens of India. They include respecting the Constitution, promoting harmony, protecting the environment, and safeguarding public property. While not legally enforceable in courts, they are crucial for national integrity.
+
+Q:What is the Dowry Prohibition Act
+A:The Dowry Prohibition Act, 1961, makes it illegal to give, take, or demand dowry before, during, or after marriage. The law aims to eradicate the social evil of dowry, which often leads to harassment and violence against women. The punishment includes imprisonment and a fine.
+
+Q.What is the POCSO Act
+A:The Protection of Children from Sexual Offences (POCSO) Act, 2012, is a special law to protect children from sexual abuse, harassment, and pornography. It provides for child-friendly procedures for reporting, investigation, and trial, and prescribes stringent punishments for offenders.
+
+Q:What is Mischief in law
+A:Mischief, as defined under Section 425 of the IPC, is the act of intentionally causing damage or destruction to someone else's property, leading to wrongful loss. This includes acts like vandalism, damaging a vehicle, or harming livestock. The punishment depends on the value of the damage caused.
+
+Q:What is Criminal Misappropriation
+A:Criminal misappropriation, under Section 403 of the IPC, is when a person dishonestly uses or converts someone else's movable property for their own use. For example, finding a lost wallet and using the money instead of trying to return it. It is a crime of dishonesty.
+
+Q:What is House-trespass
+A:House-trespass, under Section 442 of the IPC, is a more serious form of criminal trespass where the offender illegally enters a building, tent, or vessel used as a human dwelling or a place of worship. The punishment is higher than for simple trespass on open land.
+
+Q:What is Bigamy
+A:Bigamy is the act of marrying someone while still being legally married to another person. Under Section 494 of the IPC, it is a criminal offense for Hindus, Christians, and Parsis, punishable with imprisonment and a fine. The second marriage is considered legally void.
+
+Q:What is Adultery (as a law)
+A:Historically, Section 497 of the IPC criminalized adultery, where a man could be punished for having sexual intercourse with a married woman without her husband's consent. In 2018, the Supreme Court struck down this law, declaring it unconstitutional and decriminalizing adultery.
+
+Q:What is Affray
+A:Affray, under Section 159 of the IPC, is committed when two or more people disturb the public peace by fighting in a public place. It is a minor offense aimed at maintaining public order. Both parties involved in the fight can be punished.
+
+Q:What is Public Interest Litigation (PIL)
+A:Public Interest Litigation (PIL) is a legal action initiated in a court for the protection of public interest. Any citizen or organization can file a PIL on behalf of victims who cannot approach the court themselves. It has been used to address issues like environmental pollution, corruption, and human rights.
+
+Q:What is Lok Adalat
+A:Lok Adalat, or "People's Court," is an alternative dispute resolution mechanism where disputes are settled through compromise and conciliation. Its decisions are legally binding and there is no appeal against them. It is a faster and cheaper way to resolve civil, family, and minor criminal cases.
+
+Q:What is Arbitration
+A:Arbitration is a method of resolving disputes outside of court, where the conflicting parties agree to refer their case to a neutral third party, called an arbitrator. The arbitrator's decision, known as an award, is legally binding. It is commonly used in commercial and business disputes.
+
+Q:What is the Indian Contract Act
+A:The Indian Contract Act, 1872, is the primary law that governs contracts in India. It defines what constitutes a valid contract, outlines the rights and obligations of the parties, and provides remedies in case of a breach of contract.
+
+Q:What is Breach of Contract
+A:A breach of contract occurs when one party fails to fulfill its obligations as per the terms of a legally binding agreement. The non-breaching party is entitled to seek legal remedies, such as compensation for damages, specific performance, or cancellation of the contract.
+
+Q:What is a Sale Deed
+A:A sale deed is a crucial legal document that acts as proof of the transfer of ownership of a property from a seller to a buyer. It is executed at the time of property sale and must be registered with the appropriate government authority to be legally valid.
+
+Q:What is a Lease Agreement
+A:A lease agreement, or rental agreement, is a contract between a landlord (lessor) and a tenant (lessee) that outlines the terms and conditions for renting a property. It typically includes details like the rent amount, duration of the lease, security deposit, and rules of occupancy.
+
+Q:What is a Mortgage
+A:A mortgage is a loan taken from a bank or financial institution to purchase a property, where the property itself is used as collateral. If the borrower fails to repay the loan, the lender has the right to take possession of the property and sell it to recover the outstanding amount.
+
+Q:What is an Easement Right
+A:An easement is a legal right to use another person's land for a specific purpose, without possessing it. A common example is the right of way, which allows someone to cross another's property to access their own. These rights are attached to the land, not the owner.
+
+Q:What is Stamp Duty
+A:Stamp duty is a tax levied by the government on legal documents, especially during the transfer of assets or property. Paying the correct stamp duty is essential for a document like a sale deed or lease agreement to be legally valid and admissible as evidence in court.
+
+Q:What is the Information Technology (IT) Act, 2000
+A:The IT Act, 2000, is India's primary law dealing with cybercrime and electronic commerce. It gives legal recognition to electronic documents and digital signatures and provides a framework for punishing offenses like hacking, data theft, and online fraud.
+
+Q:What is Cyberbullying
+A:Cyberbullying is the use of digital technology, such as social media, messages, or websites, to harass, threaten, or humiliate someone. It is a punishable offense under the IT Act and IPC, especially if it involves stalking, intimidation, or defamation.
+
+Q:What is Revenge Porn
+A:Revenge porn is the act of sharing sexually explicit images or videos of a person online without their consent, typically after a breakup. This is a serious crime that violates a person's privacy and dignity and is punishable under the IT Act and IPC with imprisonment and fines.
+
+Q:What is the role of the Reserve Bank of India (RBI)
+A:The Reserve Bank of India (RBI) is India's central bank and regulatory body for the banking system. Its main functions include issuing currency, managing foreign exchange, acting as the government's banker, and supervising banks and financial institutions to ensure stability.
+
+Q:What is the role of SEBI
+A:The Securities and Exchange Board of India (SEBI) is the regulator for the securities and commodity market in India. Its primary role is to protect the interests of investors, regulate stock exchanges, and prevent fraudulent practices like insider trading and market manipulation.
+
+Q<strong>:What is GST
+</strong>A:The Goods and Services Tax (GST) is an indirect tax that has replaced many other indirect taxes in India, such as VAT, service tax, and excise duty. It is levied on the supply of goods and services and is a comprehensive tax designed to create a single, unified market.
+
+Q:What is a PAN Card
+A:A Permanent Account Number (PAN) is a unique ten-digit alphanumeric identifier issued by the Income Tax Department. It is mandatory for filing income tax returns, conducting high-value financial transactions like buying property or making large investments, and serves as a universal proof of identity.
+
+Q:What is an RTI Application
+A:An RTI application is a request filed under the Right to Information Act, 2005, to obtain information from a government department or public authority. Any Indian citizen can file an RTI by paying a nominal fee to seek records, documents, or data held by the government, promoting transparency.
+
+Q:What is a Contempt of Court
+A:Contempt of court refers to any act that disrespects the authority of a court or obstructs the course of justice. This can include disobeying a court order (civil contempt) or scandalizing the court through disrespectful words or actions (criminal contempt). It is punishable with fines or imprisonment.
+
+Q:What is an Ex-Parte Decree
+A:An ex-parte decree is a decision given by a court in the absence of the defendant. This happens when the defendant, despite being properly served a summons, fails to appear in court. The court proceeds with the case based on the plaintiff's evidence and passes a judgment.
+
+Q:What is a Remand in criminal cases
+A:Remand is the process of sending an accused person back into custody (either police or judicial) during the investigation or trial phase. The police can request a remand from a magistrate to keep the accused in custody for further investigation under Section 167 of the CrPC.
+
+Q:What is an Inquest Report
+A:An inquest report, prepared under Section 174 of the CrPC, is a document made by the police or a magistrate after investigating the cause of an unnatural or suspicious death. It records the apparent cause of death, describes any wounds on the body, and is the first step in the legal inquiry into such deaths.
+
+Q:What is Judicial Separation
+A:Judicial separation is a legal arrangement where a married couple is allowed to live apart while remaining legally married. It can be sought on the same grounds as divorce. During this period, they are not obligated to live together, but they cannot remarry.
+
+Q:What is Adoption
+A:Adoption is the legal process through which a person or couple becomes the legal parent(s) of a child who is not their biological offspring. In India, adoption is governed by laws like the Hindu Adoption and Maintenance Act and the Juvenile Justice Act, which outline the eligibility and procedures.
+
+Q.What is a Guardian in law
+A:A guardian is a person legally appointed to care for an individual who is unable to manage their own affairs, such as a minor child or an incapacitated adult. A guardian is responsible for the person's physical well-being and, if appointed, for managing their property and finances.
+
+Q:What is the difference between a Lawyer and an Advocate
+A:A lawyer is anyone who has a degree in law. An advocate is a lawyer who is enrolled with a Bar Council and has the right to represent clients in a court of law. All advocates are lawyers, but not all lawyers are advocates.
+
+Q:What is Defamation
+A:Defamation is the act of making a false statement about someone that harms their reputation. If it is spoken, it is called slander; if it is written or published, it is called libel. It can be both a civil wrong (entitling the victim to compensation) and a criminal offense under IPC Section 499.
+
+Q:What is Wrongful Restraint
+A:Wrongful restraint, under Section 339 of the IPC, is the act of voluntarily obstructing a person from moving in a direction in which they have a right to proceed. For example, blocking someone's path on a public road. It is a punishable offense.
+
+Q:What is Wrongful Confinement
+A:Wrongful confinement, under Section 340 of the IPC, is a more serious offense than wrongful restraint. It involves restraining a person in a way that prevents them from leaving a certain confined area. For example, locking someone in a room against their will.
+
+Q:What is Abduction
+A:Abduction, under Section 362 of the IPC, is the act of compelling a person to go from any place by force or deceit. Unlike kidnapping, where the victim's age and consent are key, abduction focuses on the use of force or trickery to move a person.
+
+Q.What is Counterfeiting
+A:Counterfeiting is the act of making an imitation of something, like currency notes, stamps, or official documents, with the intent to deceive or defraud. It is a serious offense under the Indian Penal Code, aimed at protecting the economy and public trust.
+
+Q:What is Sedition
+A:Sedition, under Section 124A of the IPC, is the act of bringing hatred, contempt, or disaffection towards the government established by law, through words, signs, or actions. The Supreme Court has clarified that it applies only to acts that incite violence or public disorder.
+
+Q:What is Perjury
+A:Perjury is the crime of intentionally lying or making a false statement under oath in a court of law. It is a serious offense against justice, as it undermines the integrity of the judicial process, and is punishable under the Indian Penal Code.
+
+Q:What is Money Bill in Parliament
+A:A Money Bill is a type of bill in the Indian Parliament that deals specifically with financial matters like taxation, government borrowing, or expenditure from the Consolidated Fund of India. It can only be introduced in the Lok Sabha, and the Rajya Sabha has limited powers over it.
+
+Q.What is a Charge Sheet
+A:A charge sheet is the final report prepared by the police after completing their investigation of a crime. It is filed in court and contains details of the offense, the names of the accused, the evidence collected, and a list of witnesses. The trial begins after the court accepts the charge sheet.
+
+Q:What is the difference between Bail and Parole
+A:Bail is a temporary release of an accused person awaiting trial, granted by a court. Parole is a temporary release of a convicted prisoner for a specific reason (e.g., a family emergency) after they have served part of their sentence. Bail is a right in some cases, while parole is discretionary.
+
+Q:What is Probation
+A:Probation is a system where a person convicted of a minor offense is released back into the community under the supervision of a probation officer, instead of being sent to prison. It is a reformative measure aimed at rehabilitation, and the offender must comply with certain conditions.
+
+Q:What is Vicarious Liability
+A:Vicarious liability is a legal principle where one person is held responsible for the actions of another. A common example is an employer being held liable for the wrongful acts committed by an employee during the course of their employment.
+
+Q:What is an FIR Quashing
+A:FIR quashing is a legal process where a High Court, using its inherent powers under Section 482 of the CrPC, cancels or nullifies an FIR. This is done in exceptional cases where the FIR is found to be baseless, filed with malicious intent, or constitutes an abuse of the legal process.
+
+Q:What is the difference between acquittal and discharge
+A:A discharge happens before the trial begins, when the court finds that there is not enough evidence to frame charges against the accused. An acquittal happens after the trial is complete, when the court finds the accused not guilty of the crime. Acquittal is a final verdict of innocence.
+
+Q:What is a Food Adulteration Offense
+A:Food adulteration is the act of mixing food items with cheaper, harmful, or non-food substances, which lowers their quality and can be dangerous to health. The Food Safety and Standards Act (FSSAI), 2006, prescribes strict penalties, including imprisonment and fines, for such offenses.
+
+Q:What is Medical Negligence
+A:Medical negligence occurs when a healthcare professional fails to provide the standard of care expected, resulting in harm, injury, or death to a patient. Victims can file a complaint with the Medical Council, a consumer court for compensation, or a criminal case in situations of gross negligence.
+
+Q:What is the Consumer Protection Act, 2019
+A:The Consumer Protection Act, 2019, is a law that protects the interests of consumers. It establishes consumer courts, defines consumer rights (like the right to safety and information), and provides remedies against unfair trade practices, defective goods, and deficient services.
+
+Q:What is a Class Action Lawsuit
+A:A class action lawsuit is a legal case where a large group of people with a common grievance collectively sue a defendant. In India, this is recognized under consumer protection laws, allowing a group of consumers with the same complaint to file a single case.
+
+Q:What is an "Act of God" in law
+A:An "Act of God" is a legal term for an event caused by natural forces beyond human control, such as a flood, earthquake, or cyclone. It is often used as a defense in contract law to excuse a party from fulfilling their obligations if an unforeseen natural disaster prevents them.
+
+Q:What is the Limitation Period
+A:The limitation period is the maximum time limit within which a legal action can be initiated after a cause of action arises. The Limitation Act, 1963, prescribes different time limits for different types of lawsuits. If a case is filed after this period, the court will dismiss it.
+
+Q:What is a Hindu Undivided Family (HUF)
+A:A Hindu Undivided Family (HUF) is a family structure recognized under Hindu law, consisting of all descendants from a common male ancestor. It is treated as a separate entity for tax purposes and can own property jointly. The head of the HUF is known as the 'Karta'.
+
+Q.What is a Legal Heir Certificate
+A:A Legal Heir Certificate is a document issued by a government authority that identifies the living legal heirs of a deceased person. It is required for transferring the deceased's assets like property, bank accounts, and investments to their rightful successors.
+
+Q:What is the process of getting a Marriage Certificate
+A:To get a marriage certificate, you need to apply to the Registrar of Marriages in your area with documents like proof of age, address, an affidavit, and photographs. The process varies slightly under the Hindu Marriage Act and the Special Marriage Act. It is the legal proof of marriage.
+
+Q:What is an Encumbrance Certificate
+A:An Encumbrance Certificate is a legal document that certifies that a property is free from any monetary or legal liabilities, such as a mortgage or an unpaid loan. It is an important document to check before buying any property to ensure a clear title.
+
+Q:What is Force Majeure
+A:Force Majeure is a clause in a contract that relieves parties from their obligations if an extraordinary event beyond their control, such as war, strike, or pandemic, prevents them from performing. It is a broader concept than an "Act of God".
+
+Q:What is a Bounced ECS or NACH Mandate
+A:Similar to a cheque bounce, an ECS or NACH debit mandate can be dishonored due to insufficient funds. This is an offense under Section 25 of the Payment and Settlement Systems Act, 2007, and the defaulter can face legal action, including fines and imprisonment.
+
+Q:What is Rioting
+A:Rioting, under Section 146 of the IPC, is committed when an unlawful assembly uses force or violence to achieve its common objective. It is a more serious offense than being part of an unlawful assembly and carries a higher punishment.
+
+Q.What is the Prevention of Corruption Act
+A:The Prevention of Corruption Act, 1988, is the primary law in India to combat corruption in government agencies and public sector businesses. It criminalizes bribery, misappropriation of property, and possessing assets disproportionate to one's known income.
+
+Q:What is the role of the Central Bureau of Investigation (CBI)
+A:The CBI is India's premier investigating agency. It handles cases of corruption, economic offenses, and serious, complex crimes of national importance. It operates under the jurisdiction of the Ministry of Personnel, Public Grievances and Pensions.
+
+Q:What is the role of the Enforcement Directorate (ED)
+A:The Enforcement Directorate (ED) is a specialized financial investigation agency that enforces two key laws: the Foreign Exchange Management Act (FEMA) and the Prevention of Money Laundering Act (PMLA). It investigates financial frauds, money laundering, and foreign exchange violations.
+
+Q:What is an Anticipatory Bail
+A:Anticipatory bail is a pre-arrest bail granted by a court to a person who anticipates being arrested for a non-bailable offense. Under Section 438 of the CrPC, a person can apply to a Sessions Court or High Court for an order directing the police to release them on bail if they are arrested.
+
+Q:What is Cheque Truncation System
+A:Cheque Truncation System (CTS) is an RBI project to speed up cheque clearing. Instead of physically moving cheques, banks transmit an electronic image of the cheque and its data. This reduces processing time and the risk of cheques being lost in transit.
+
+Q:What is the Real Estate (Regulation and Development) Act (RERA)
+A:The RERA, 2016, is an act to protect homebuyers and boost investments in the real estate sector. It establishes a regulatory authority for real estate, mandates registration of projects, and ensures that developers adhere to project timelines and quality standards, providing a mechanism for grievance redressal.
+
+Q:What is the difference between parole and furlough
+A:Parole is granted for a specific reason (like a family wedding or death) and is not a matter of right. Furlough is a matter of right for long-term prisoners, granted periodically to allow them to maintain family ties, without any specific reason. Both are forms of temporary release from prison.
+
+Q:What is Sub-judice
+A:Sub-judice is a legal term meaning "under judgment." It refers to a matter that is currently being heard or considered by a court. During this period, public discussion or media reporting that could influence the court's decision is often restricted.
+
+Q:What is a Pro-Bono legal service
+A:Pro-bono, from the Latin "pro bono publico" (for the public good), refers to legal work performed by lawyers for free or at a reduced cost for people with low incomes. It is a way for lawyers to provide community service and ensure access to justice for all.

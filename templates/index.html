@@ -1,0 +1,361 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>KnowYourLaw</title>
+
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+<style>
+
+.user-menu{
+position:relative;
+display:inline-block;
+}
+
+.user-icon{
+cursor:pointer;
+font-weight:bold;
+color:#fff;
+padding:8px 12px;
+border-radius:5px;
+background:#444;
+}
+
+.dropdown-content{
+display:none;
+position:absolute;
+right:0;
+background:#fff;
+min-width:140px;
+box-shadow:0 8px 16px rgba(0,0,0,.2);
+border-radius:5px;
+z-index:1;
+}
+
+.dropdown-content a{
+display:block;
+padding:10px 12px;
+text-decoration:none;
+color:#333;
+}
+
+.dropdown-content a:hover{
+background:#f2f2f2;
+}
+
+.user-menu:hover .dropdown-content{
+display:block;
+}
+
+.chat-container{
+width:100%;
+max-width:900px;
+margin:auto;
+}
+
+.chat-box{
+height:500px;
+overflow-y:auto;
+padding:20px;
+background:#f7f7f7;
+border-radius:10px;
+border:1px solid #ddd;
+margin-bottom:15px;
+}
+
+.message{
+max-width:75%;
+padding:12px;
+margin:10px 0;
+border-radius:12px;
+word-wrap:break-word;
+}
+
+.user-message{
+background:#DCF8C6;
+margin-left:auto;
+text-align:right;
+}
+
+.bot-message{
+background:white;
+border:1px solid #ddd;
+}
+
+.input-area{
+display:flex;
+gap:10px;
+}
+
+.input-area textarea{
+flex:1;
+height:70px;
+resize:none;
+padding:10px;
+}
+
+.send-btn{
+padding:10px 20px;
+cursor:pointer;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<nav class="navbar">
+
+<div class="nav-container">
+
+<div class="nav-brand">
+
+<img src="{{ url_for('static', filename='balance2.png') }}" width="45" height="50">
+
+<span>
+
+KnowYourLaw
+
+</span>
+
+</div>
+
+<div class="hamburger" onclick="toggleMenu()">
+
+<span class="bar"></span>
+<span class="bar"></span>
+<span class="bar"></span>
+
+</div>
+
+<ul class="nav-menu">
+
+<li class="nav-item">
+<a href="#" class="nav-link">Home</a>
+</li>
+
+<li class="nav-item">
+<a href="#" class="nav-link">Resources</a>
+</li>
+
+<li class="nav-item">
+<a href="#" class="nav-link">About Us</a>
+</li>
+
+{% if session.get("username") %}
+
+<li class="nav-item user-menu">
+
+<span class="user-icon">
+
+👤 {{ session["username"] }}
+
+</span>
+
+<div class="dropdown-content">
+
+<a href="{{ url_for('profile') }}">
+
+Profile
+
+</a>
+
+<a href="{{ url_for('logout') }}">
+
+Logout
+
+</a>
+
+</div>
+
+</li>
+
+{% else %}
+
+<li class="nav-item">
+
+<a href="{{ url_for('login') }}" class="nav-link">
+
+Login
+
+</a>
+
+</li>
+
+{% endif %}
+
+</ul>
+
+</div>
+
+</nav>
+
+</header>
+
+<div class="container">
+
+<div class="logo">
+
+<img src="{{ url_for('static', filename='Balance2.png') }}" width="45" height="50">
+
+KnowYourLaw
+
+</div>
+
+<div class="tagline">
+
+Get personalized legal guidance
+
+</div>
+
+
+<div class="chat-container">
+
+<div id="chat-box" class="chat-box">
+
+</div>
+
+<div class="input-area">
+
+<textarea
+id="legalProblem"
+placeholder="Type your legal question..."
+maxlength="1000"
+></textarea>
+
+<button
+class="send-btn"
+onclick="sendMessage()"
+>
+
+Send
+
+</button>
+
+</div>
+
+</div>
+
+</div>
+
+
+<script>
+
+function toggleMenu(){
+
+document.querySelector(
+".nav-menu"
+).classList.toggle(
+"active"
+)
+
+}
+
+async function sendMessage(){
+
+let input=document.getElementById(
+"legalProblem"
+)
+
+let msg=input.value.trim()
+
+if(msg==="") return
+
+let chat=document.getElementById(
+"chat-box"
+)
+
+chat.innerHTML += `
+<div class="message user-message">
+
+${msg}
+
+</div>
+`
+
+input.value=""
+
+chat.scrollTop=
+chat.scrollHeight
+
+
+try{
+
+const response=
+await fetch(
+"/get",
+{
+method:"POST",
+
+headers:{
+"Content-Type":"application/json"
+},
+
+body:JSON.stringify({
+msg:msg
+})
+}
+)
+
+const data=
+await response.json()
+
+chat.innerHTML += `
+<div class="message bot-message">
+
+${data.response}
+
+</div>
+`
+
+chat.scrollTop=
+chat.scrollHeight
+
+}
+
+catch{
+
+chat.innerHTML += `
+<div class="message bot-message">
+
+Error getting response
+
+</div>
+`
+
+}
+
+}
+
+document.getElementById(
+"legalProblem"
+).addEventListener(
+"keypress",
+function(e){
+
+if(
+e.key==="Enter"
+&& !e.shiftKey
+){
+
+e.preventDefault()
+
+sendMessage()
+
+}
+
+}
+)
+
+</script>
+
+</body>
+
+</html>
+```
